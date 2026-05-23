@@ -1,0 +1,77 @@
+﻿
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:7:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:14:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:15:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 
+(__determine_compiler_id_test)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:16:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 
+(CMAKE_DETERMINE_COMPILER_ID)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:38:        C:\\Program Files\\Microsoft Visual 
+Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- 
+/EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC 
+/errorReport:queue CMakeCXXCompilerId.cpp
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:41:        C:\\Program Files\\Microsoft Visual 
+Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" 
+/INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib 
+odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" 
+/SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:46:        CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual 
+Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:69:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 
+(try_compile)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:70:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 
+(CMAKE_DETERMINE_COMPILER_ABI)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:88:        Run Build Command(s): "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1924c.vcxproj /p:Configuration=Debug /p:Platform=x64 
+/p:VisualStudioVersion=17.0 /v:n
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:102:          C:\\Program Files\\Microsoft Visual 
+Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D 
+WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR 
+/Fo"cmTC_1924c.dir\\Debug\\\\" /Fd"cmTC_1924c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\Microsoft 
+Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:105:          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D 
+_WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1924c.dir\\Debug\\\\" 
+/Fd"cmTC_1924c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual 
+Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:108:          C:\\Program Files\\Microsoft Visual 
+Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\My_Experience\\car_helth\\carep
+ulse_flutter_dashboard\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-xiirci\\Debug\\cmTC_1924c.exe" /INCREMENTAL 
+/ILK:"cmTC_1924c.dir\\Debug\\cmTC_1924c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib 
+uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG 
+/PDB:"D:/My_Experience/car_helth/carepulse_flutter_dashboard/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-xiirci/Debug/cmTC_1924c.pdb" 
+/SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/My_Experience/car_helth/carepulse_flutter_dashboard/build/windows/x64/CMakeFiles
+/CMakeScratch/TryCompile-xiirci/Debug/cmTC_1924c.lib" /MACHINE:X64  /machine:x64 cmTC_1924c.dir\\Debug\\CMakeCXXCompilerABI.obj
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:125:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 
+(message)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:126:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 
+(CMAKE_DETERMINE_COMPILER_ABI)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:132:        linker tool for 'CXX': C:/Program Files/Microsoft Visual 
+Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:142:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 
+(message)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:143:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 
+(cmake_determine_linker_id)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:144:      - "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 
+(CMAKE_DETERMINE_COMPILER_ABI)"
+build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:147:      Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual 
+Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
+docs\github\c021_publication_safety_scan.md:15:- Zero Health
+docs\github\c021_publication_safety_scan.md:16:- ZeroHealth
+docs\github\c021_publication_safety_scan.md:17:- Book Test
+docs\github\c021_publication_safety_scan.md:18:- Action Plan
+docs\github\c021_publication_safety_scan.md:19:- Supplements
+docs\github\c021_publication_safety_scan.md:20:- Community
+docs\review\c022_final_review_checklist.md:14:- [ ] The project does not use the name Zero Health.
+docs\review\c022_final_review_checklist.md:15:- [ ] The project does not use the name ZeroHealth.
+
+

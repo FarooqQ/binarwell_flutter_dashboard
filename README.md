@@ -448,3 +448,24 @@ Project name:
 CarePulse Flutter Dashboard
 ```
 
+
+---
+
+## Screenshots
+
+### Dashboard Overview
+
+![CarePulse Dashboard Overview](docs/screenshots/1.PNG)
+
+### Wellness Cards
+
+![CarePulse Wellness Cards](docs/screenshots/2.PNG)
+
+### Responsive Dashboard Layout
+
+![CarePulse Responsive Layout](docs/screenshots/3.PNG)
+
+### Final UI Polish
+
+![CarePulse Final UI Polish](docs/screenshots/4.PNG)
+
