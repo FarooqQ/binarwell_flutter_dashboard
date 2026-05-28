@@ -1,98 +1,177 @@
 import 'package:flutter/material.dart';
 
-import '../../../app/theme/app_colors.dart';
-import '../../../app/theme/app_radius.dart';
-import '../../../app/theme/app_shadows.dart';
-import '../../../app/theme/app_spacing.dart';
-import '../../../app/theme/app_text_styles.dart';
+import '../navigation/carepulse_page.dart';
 
-class WellnessSidebar extends StatelessWidget {
-  const WellnessSidebar({super.key});
+class WellnessSidebar extends StatefulWidget {
+  const WellnessSidebar({
+    super.key,
+    this.selectedPage = CarePulsePage.overview,
+    this.onPageSelected,
+  });
 
-  static const List<_SidebarMenuItemData> _items = [
-    _SidebarMenuItemData(
+  final CarePulsePage selectedPage;
+  final ValueChanged<CarePulsePage>? onPageSelected;
+
+  @override
+  State<WellnessSidebar> createState() => _WellnessSidebarState();
+}
+
+class _WellnessSidebarState extends State<WellnessSidebar> {
+  late CarePulsePage _localSelectedPage;
+
+  static const List<_SidebarItemData> _items = [
+    _SidebarItemData(
+      page: CarePulsePage.overview,
+      icon: Icons.grid_view_rounded,
       label: 'Overview',
-      icon: Icons.dashboard_rounded,
-      isSelected: true,
     ),
-    _SidebarMenuItemData(
-      label: 'Activity',
+    _SidebarItemData(
+      page: CarePulsePage.activity,
       icon: Icons.directions_walk_rounded,
+      label: 'Activity',
     ),
-    _SidebarMenuItemData(label: 'Wellness Goals', icon: Icons.flag_rounded),
-    _SidebarMenuItemData(label: 'Checkups', icon: Icons.fact_check_rounded),
-    _SidebarMenuItemData(label: 'Nutrition', icon: Icons.restaurant_rounded),
-    _SidebarMenuItemData(label: 'Reports', icon: Icons.insert_chart_rounded),
-    _SidebarMenuItemData(label: 'Settings', icon: Icons.settings_rounded),
+    _SidebarItemData(
+      page: CarePulsePage.wellnessGoals,
+      icon: Icons.flag_rounded,
+      label: 'Wellness Goals',
+    ),
+    _SidebarItemData(
+      page: CarePulsePage.checkups,
+      icon: Icons.fact_check_rounded,
+      label: 'Checkups',
+    ),
+    _SidebarItemData(
+      page: CarePulsePage.nutrition,
+      icon: Icons.restaurant_rounded,
+      label: 'Nutrition',
+    ),
+    _SidebarItemData(
+      page: CarePulsePage.reports,
+      icon: Icons.analytics_rounded,
+      label: 'Reports',
+    ),
+    _SidebarItemData(
+      page: CarePulsePage.settings,
+      icon: Icons.settings_rounded,
+      label: 'Settings',
+    ),
   ];
 
   @override
+  void initState() {
+    super.initState();
+    _localSelectedPage = widget.selectedPage;
+  }
+
+  @override
+  void didUpdateWidget(covariant WellnessSidebar oldWidget) {
+    super.didUpdateWidget(oldWidget);
+
+    if (oldWidget.selectedPage != widget.selectedPage) {
+      _localSelectedPage = widget.selectedPage;
+    }
+  }
+
+  void _selectPage(CarePulsePage page) {
+    setState(() {
+      _localSelectedPage = page;
+    });
+
+    widget.onPageSelected?.call(page);
+  }
+
+  @override
   Widget build(BuildContext context) {
+    final activePage = widget.onPageSelected == null
+        ? _localSelectedPage
+        : widget.selectedPage;
+
     return Container(
       width: 260,
-      margin: const EdgeInsets.all(AppSpacing.md),
-      padding: const EdgeInsets.all(AppSpacing.lg),
+      padding: const EdgeInsets.all(24),
       decoration: BoxDecoration(
-        color: AppColors.surface,
-        borderRadius: BorderRadius.circular(AppRadius.card),
-        border: Border.all(color: AppColors.border),
-        boxShadow: AppShadows.panel,
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(28),
+        boxShadow: const [
+          BoxShadow(
+            color: Color(0x140F172A),
+            blurRadius: 28,
+            offset: Offset(0, 12),
+          ),
+        ],
       ),
       child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const _SidebarLogo(),
-          const SizedBox(height: AppSpacing.xl),
-          for (final item in _items)
-            Padding(
-              padding: const EdgeInsets.only(bottom: AppSpacing.sm),
-              child: _SidebarMenuItem(item: item),
+          const _SidebarHeader(),
+          const SizedBox(height: 36),
+          Expanded(
+            child: ListView.separated(
+              itemCount: _items.length,
+              separatorBuilder: (context, index) => const SizedBox(height: 8),
+              itemBuilder: (context, index) {
+                final item = _items[index];
+
+                return _SidebarItem(
+                  icon: item.icon,
+                  label: item.label,
+                  isSelected: activePage == item.page,
+                  onTap: () => _selectPage(item.page),
+                );
+              },
             ),
-          const Spacer(),
-          const _SidebarProfileCard(),
+          ),
+          const _UserCard(),
         ],
       ),
     );
   }
 }
 
-class _SidebarLogo extends StatelessWidget {
-  const _SidebarLogo();
+class _SidebarHeader extends StatelessWidget {
+  const _SidebarHeader();
 
   @override
   Widget build(BuildContext context) {
     return Row(
       children: [
         Container(
-          width: 42,
-          height: 42,
+          width: 44,
+          height: 44,
           decoration: BoxDecoration(
-            color: AppColors.primary,
-            borderRadius: BorderRadius.circular(AppRadius.medium),
+            color: const Color(0xFF12BFA5),
+            borderRadius: BorderRadius.circular(14),
           ),
           child: const Icon(
             Icons.favorite_rounded,
             color: Colors.white,
-            size: 22,
+            size: 24,
           ),
         ),
-        const SizedBox(width: AppSpacing.md),
+        const SizedBox(width: 14),
         const Expanded(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
                 'CarePulse',
-                style: AppTextStyles.title,
-                maxLines: 1,
                 overflow: TextOverflow.ellipsis,
+                maxLines: 1,
+                style: TextStyle(
+                  color: Color(0xFF0F172A),
+                  fontSize: 20,
+                  fontWeight: FontWeight.w800,
+                ),
               ),
-              SizedBox(height: AppSpacing.xs),
+              SizedBox(height: 3),
               Text(
                 'Wellness Dashboard',
-                style: AppTextStyles.label,
-                maxLines: 1,
                 overflow: TextOverflow.ellipsis,
+                maxLines: 1,
+                style: TextStyle(
+                  color: Color(0xFF64748B),
+                  fontSize: 12,
+                  fontWeight: FontWeight.w600,
+                ),
               ),
             ],
           ),
@@ -102,65 +181,82 @@ class _SidebarLogo extends StatelessWidget {
   }
 }
 
-class _SidebarMenuItem extends StatelessWidget {
-  const _SidebarMenuItem({required this.item});
+class _SidebarItem extends StatelessWidget {
+  const _SidebarItem({
+    required this.icon,
+    required this.label,
+    required this.isSelected,
+    required this.onTap,
+  });
 
-  final _SidebarMenuItemData item;
+  final IconData icon;
+  final String label;
+  final bool isSelected;
+  final VoidCallback onTap;
 
   @override
   Widget build(BuildContext context) {
-    final Color backgroundColor = item.isSelected
-        ? const Color(0x1F14B8A6)
+    final backgroundColor = isSelected
+        ? const Color(0xFFE4F8F5)
         : Colors.transparent;
 
-    final Color borderColor = item.isSelected
-        ? const Color(0x3314B8A6)
+    final borderColor = isSelected
+        ? const Color(0xFFB7EDE6)
         : Colors.transparent;
 
-    final Color contentColor = item.isSelected
-        ? AppColors.primary
-        : AppColors.textSecondary;
+    final foregroundColor = isSelected
+        ? const Color(0xFF0BAE9A)
+        : const Color(0xFF64748B);
 
-    return Container(
-      padding: const EdgeInsets.symmetric(
-        horizontal: AppSpacing.md,
-        vertical: AppSpacing.sm,
-      ),
-      decoration: BoxDecoration(
-        color: backgroundColor,
-        borderRadius: BorderRadius.circular(AppRadius.medium),
-        border: Border.all(color: borderColor),
-      ),
-      child: Row(
-        children: [
-          Icon(item.icon, size: 20, color: contentColor),
-          const SizedBox(width: AppSpacing.md),
-          Expanded(
-            child: Text(
-              item.label,
-              style: AppTextStyles.body.copyWith(
-                color: contentColor,
-                fontWeight: item.isSelected ? FontWeight.w700 : FontWeight.w500,
-              ),
-            ),
+    return Material(
+      color: backgroundColor,
+      borderRadius: BorderRadius.circular(16),
+      child: InkWell(
+        borderRadius: BorderRadius.circular(16),
+        onTap: onTap,
+        child: Container(
+          height: 48,
+          padding: const EdgeInsets.symmetric(horizontal: 16),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(16),
+            border: Border.all(color: borderColor),
           ),
-        ],
+          child: Row(
+            children: [
+              Icon(icon, color: foregroundColor, size: 21),
+              const SizedBox(width: 14),
+              Expanded(
+                child: Text(
+                  label,
+                  overflow: TextOverflow.ellipsis,
+                  maxLines: 1,
+                  style: TextStyle(
+                    color: foregroundColor,
+                    fontSize: 15,
+                    fontWeight: isSelected ? FontWeight.w800 : FontWeight.w600,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }
 }
 
-class _SidebarProfileCard extends StatelessWidget {
-  const _SidebarProfileCard();
+class _UserCard extends StatelessWidget {
+  const _UserCard();
 
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.all(AppSpacing.md),
+      height: 78,
+      padding: const EdgeInsets.all(14),
       decoration: BoxDecoration(
-        color: AppColors.background,
-        borderRadius: BorderRadius.circular(AppRadius.large),
-        border: Border.all(color: AppColors.border),
+        color: const Color(0xFFF1F8FB),
+        borderRadius: BorderRadius.circular(20),
+        border: Border.all(color: const Color(0xFFD9EAF2)),
       ),
       child: Row(
         children: [
@@ -168,30 +264,41 @@ class _SidebarProfileCard extends StatelessWidget {
             width: 42,
             height: 42,
             decoration: BoxDecoration(
-              color: AppColors.secondary,
-              borderRadius: BorderRadius.circular(AppRadius.pill),
+              color: const Color(0xFF2563EB),
+              borderRadius: BorderRadius.circular(21),
             ),
             child: const Icon(
               Icons.person_rounded,
               color: Colors.white,
-              size: 22,
+              size: 23,
             ),
           ),
-          const SizedBox(width: AppSpacing.md),
+          const SizedBox(width: 12),
           const Expanded(
             child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
                   'Guest User',
-                  style: AppTextStyles.title,
                   overflow: TextOverflow.ellipsis,
+                  maxLines: 1,
+                  style: TextStyle(
+                    color: Color(0xFF0F172A),
+                    fontSize: 16,
+                    fontWeight: FontWeight.w800,
+                  ),
                 ),
-                SizedBox(height: AppSpacing.xs),
+                SizedBox(height: 4),
                 Text(
                   'Wellness Member',
-                  style: AppTextStyles.label,
                   overflow: TextOverflow.ellipsis,
+                  maxLines: 1,
+                  style: TextStyle(
+                    color: Color(0xFF94A3B8),
+                    fontSize: 12,
+                    fontWeight: FontWeight.w700,
+                  ),
                 ),
               ],
             ),
@@ -202,14 +309,14 @@ class _SidebarProfileCard extends StatelessWidget {
   }
 }
 
-class _SidebarMenuItemData {
-  const _SidebarMenuItemData({
-    required this.label,
+class _SidebarItemData {
+  const _SidebarItemData({
+    required this.page,
     required this.icon,
-    this.isSelected = false,
+    required this.label,
   });
 
-  final String label;
+  final CarePulsePage page;
   final IconData icon;
-  final bool isSelected;
+  final String label;
 }

@@ -1,0 +1,163 @@
+# R2-020 Project Tree Snapshot
+
+## lib structure
+
+Folder PATH listing for volume New Volume
+Volume serial number is 00000013 1C9D:76F5
+D:\MY_EXPERIENCE\CAR_HELTH\CAREPULSE_FLUTTER_DASHBOARD\LIB
+¦   main.dart
+¦   
++---app
+¦   ¦   carepulse_app.dart
+¦   ¦   
+¦   +---theme
+¦           app_colors.dart
+¦           app_radius.dart
+¦           app_shadows.dart
+¦           app_spacing.dart
+¦           app_text_styles.dart
+¦           app_theme.dart
+¦           
++---features
+    +---activity
+    ¦   +---data
+    ¦   ¦       activity_mock_data.dart
+    ¦   ¦       
+    ¦   +---models
+    ¦   ¦       activity_goal_model.dart
+    ¦   ¦       activity_insight_model.dart
+    ¦   ¦       activity_session_model.dart
+    ¦   ¦       hourly_movement_model.dart
+    ¦   ¦       intensity_zone_model.dart
+    ¦   ¦       
+    ¦   +---presentation
+    ¦       ¦   activity_page.dart
+    ¦       ¦   
+    ¦       +---widgets
+    ¦               activity_goals_card.dart
+    ¦               activity_insights_card.dart
+    ¦               activity_sessions_card.dart
+    ¦               activity_time_filter.dart
+    ¦               hourly_movement_chart_card.dart
+    ¦               intensity_zones_card.dart
+    ¦               today_movement_card.dart
+    ¦               
+    +---checkups
+    ¦   +---presentation
+    ¦           checkups_page.dart
+    ¦           
+    +---dashboard
+    ¦   +---data
+    ¦   ¦       mock_carepulse_data.dart
+    ¦   ¦       
+    ¦   +---layout
+    ¦   ¦       dashboard_content_grid.dart
+    ¦   ¦       dashboard_header.dart
+    ¦   ¦       dashboard_main_area.dart
+    ¦   ¦       dashboard_shell.dart
+    ¦   ¦       wellness_sidebar.dart
+    ¦   ¦       
+    ¦   +---models
+    ¦   ¦       activity_summary.dart
+    ¦   ¦       checkup_item.dart
+    ¦   ¦       vital_metric.dart
+    ¦   ¦       wellness_goal.dart
+    ¦   ¦       
+    ¦   +---navigation
+    ¦   ¦       carepulse_page.dart
+    ¦   ¦       
+    ¦   +---page
+    ¦   ¦       carepulse_dashboard_page.dart
+    ¦   ¦       
+    ¦   +---widgets
+    ¦           body_balance_card.dart
+    ¦           checkup_timeline_card.dart
+    ¦           daily_goals_card.dart
+    ¦           dashboard_card.dart
+    ¦           metric_tile.dart
+    ¦           summary_metric_card.dart
+    ¦           vital_metrics_card.dart
+    ¦           weekly_movement_card.dart
+    ¦           wellness_score_card.dart
+    ¦           
+    +---nutrition
+    ¦   +---presentation
+    ¦           nutrition_page.dart
+    ¦           
+    +---reports
+    ¦   +---presentation
+    ¦           reports_page.dart
+    ¦           
+    +---settings
+    ¦   +---presentation
+    ¦           settings_page.dart
+    ¦           
+    +---wellness_goals
+        +---presentation
+                wellness_goals_page.dart
+                
+
+## test structure
+
+Folder PATH listing for volume New Volume
+Volume serial number is 00000081 1C9D:76F5
+D:\MY_EXPERIENCE\CAR_HELTH\CAREPULSE_FLUTTER_DASHBOARD\TEST
+    widget_test.dart
+    
+No subfolders exist 
+
+
+## docs/release_2 structure
+
+Folder PATH listing for volume New Volume
+Volume serial number is 000000CA 1C9D:76F5
+D:\MY_EXPERIENCE\CAR_HELTH\CAREPULSE_FLUTTER_DASHBOARD\DOCS\RELEASE_2
+    r2_001_changelog.md
+    r2_001_gate_decision.md
+    r2_002_gate_decision.md
+    r2_002_navigation_model_changelog.md
+    r2_003_wellness_sidebar_before.txt
+    r2_004_dashboard_shell_page_switching_changelog.md
+    r2_004_gate_decision.md
+    r2_005_gate_decision.md
+    r2_005_placeholder_pages_changelog.md
+    r2_006_activity_feature_architecture_changelog.md
+    r2_006_gate_decision.md
+    r2_007_activity_models_mock_data_changelog.md
+    r2_007_gate_decision.md
+    r2_008_activity_page_layout_foundation_changelog.md
+    r2_008_gate_decision.md
+    r2_009_activity_time_filter_changelog.md
+    r2_009_gate_decision.md
+    r2_010_gate_decision.md
+    r2_010_today_movement_hero_card_changelog.md
+    r2_011_activity_goals_card_changelog.md
+    r2_011_gate_decision.md
+    r2_012_gate_decision.md
+    r2_012_hourly_movement_chart_card_changelog.md
+    r2_013_activity_sessions_card_changelog.md
+    r2_013_gate_decision.md
+    r2_014_gate_decision.md
+    r2_014_intensity_zones_card_changelog.md
+    r2_015_activity_insights_card_changelog.md
+    r2_015_gate_decision.md
+    r2_016_gate_decision.md
+    r2_016_visual_consistency_checklist.md
+    r2_016_visual_consistency_review.md
+    r2_017_gate_decision.md
+    r2_017_responsive_checklist.md
+    r2_017_responsive_review.md
+    r2_018_gate_decision.md
+    r2_018_tests_validation_changelog.md
+    r2_019_documentation_inventory.txt
+    r2_019_gate_decision.md
+    r2_019_release_2_documentation_package.md
+    r2_020_project_tree_snapshot.txt
+    r2_gate_template.md
+    r2_progress_tracker.md
+    r2_release_plan.md
+    r2_scope.md
+    r2_visual_contract_activity_page.md
+    
+No subfolders exist 
+
