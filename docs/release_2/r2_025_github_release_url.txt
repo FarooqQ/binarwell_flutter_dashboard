@@ -1,0 +1,1 @@
+https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.1.0
