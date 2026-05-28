@@ -1,0 +1,215 @@
+import 'package:flutter/material.dart';
+
+import '../../../app/theme/app_colors.dart';
+import '../../../app/theme/app_radius.dart';
+import '../../../app/theme/app_shadows.dart';
+import '../../../app/theme/app_spacing.dart';
+import '../../../app/theme/app_text_styles.dart';
+
+class WellnessSidebar extends StatelessWidget {
+  const WellnessSidebar({super.key});
+
+  static const List<_SidebarMenuItemData> _items = [
+    _SidebarMenuItemData(
+      label: 'Overview',
+      icon: Icons.dashboard_rounded,
+      isSelected: true,
+    ),
+    _SidebarMenuItemData(
+      label: 'Activity',
+      icon: Icons.directions_walk_rounded,
+    ),
+    _SidebarMenuItemData(label: 'Wellness Goals', icon: Icons.flag_rounded),
+    _SidebarMenuItemData(label: 'Checkups', icon: Icons.fact_check_rounded),
+    _SidebarMenuItemData(label: 'Nutrition', icon: Icons.restaurant_rounded),
+    _SidebarMenuItemData(label: 'Reports', icon: Icons.insert_chart_rounded),
+    _SidebarMenuItemData(label: 'Settings', icon: Icons.settings_rounded),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: 260,
+      margin: const EdgeInsets.all(AppSpacing.md),
+      padding: const EdgeInsets.all(AppSpacing.lg),
+      decoration: BoxDecoration(
+        color: AppColors.surface,
+        borderRadius: BorderRadius.circular(AppRadius.card),
+        border: Border.all(color: AppColors.border),
+        boxShadow: AppShadows.panel,
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const _SidebarLogo(),
+          const SizedBox(height: AppSpacing.xl),
+          for (final item in _items)
+            Padding(
+              padding: const EdgeInsets.only(bottom: AppSpacing.sm),
+              child: _SidebarMenuItem(item: item),
+            ),
+          const Spacer(),
+          const _SidebarProfileCard(),
+        ],
+      ),
+    );
+  }
+}
+
+class _SidebarLogo extends StatelessWidget {
+  const _SidebarLogo();
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      children: [
+        Container(
+          width: 42,
+          height: 42,
+          decoration: BoxDecoration(
+            color: AppColors.primary,
+            borderRadius: BorderRadius.circular(AppRadius.medium),
+          ),
+          child: const Icon(
+            Icons.favorite_rounded,
+            color: Colors.white,
+            size: 22,
+          ),
+        ),
+        const SizedBox(width: AppSpacing.md),
+        const Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'CarePulse',
+                style: AppTextStyles.title,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+              ),
+              SizedBox(height: AppSpacing.xs),
+              Text(
+                'Wellness Dashboard',
+                style: AppTextStyles.label,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
+  }
+}
+
+class _SidebarMenuItem extends StatelessWidget {
+  const _SidebarMenuItem({required this.item});
+
+  final _SidebarMenuItemData item;
+
+  @override
+  Widget build(BuildContext context) {
+    final Color backgroundColor = item.isSelected
+        ? const Color(0x1F14B8A6)
+        : Colors.transparent;
+
+    final Color borderColor = item.isSelected
+        ? const Color(0x3314B8A6)
+        : Colors.transparent;
+
+    final Color contentColor = item.isSelected
+        ? AppColors.primary
+        : AppColors.textSecondary;
+
+    return Container(
+      padding: const EdgeInsets.symmetric(
+        horizontal: AppSpacing.md,
+        vertical: AppSpacing.sm,
+      ),
+      decoration: BoxDecoration(
+        color: backgroundColor,
+        borderRadius: BorderRadius.circular(AppRadius.medium),
+        border: Border.all(color: borderColor),
+      ),
+      child: Row(
+        children: [
+          Icon(item.icon, size: 20, color: contentColor),
+          const SizedBox(width: AppSpacing.md),
+          Expanded(
+            child: Text(
+              item.label,
+              style: AppTextStyles.body.copyWith(
+                color: contentColor,
+                fontWeight: item.isSelected ? FontWeight.w700 : FontWeight.w500,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _SidebarProfileCard extends StatelessWidget {
+  const _SidebarProfileCard();
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.all(AppSpacing.md),
+      decoration: BoxDecoration(
+        color: AppColors.background,
+        borderRadius: BorderRadius.circular(AppRadius.large),
+        border: Border.all(color: AppColors.border),
+      ),
+      child: Row(
+        children: [
+          Container(
+            width: 42,
+            height: 42,
+            decoration: BoxDecoration(
+              color: AppColors.secondary,
+              borderRadius: BorderRadius.circular(AppRadius.pill),
+            ),
+            child: const Icon(
+              Icons.person_rounded,
+              color: Colors.white,
+              size: 22,
+            ),
+          ),
+          const SizedBox(width: AppSpacing.md),
+          const Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  'Guest User',
+                  style: AppTextStyles.title,
+                  overflow: TextOverflow.ellipsis,
+                ),
+                SizedBox(height: AppSpacing.xs),
+                Text(
+                  'Wellness Member',
+                  style: AppTextStyles.label,
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _SidebarMenuItemData {
+  const _SidebarMenuItemData({
+    required this.label,
+    required this.icon,
+    this.isSelected = false,
+  });
+
+  final String label;
+  final IconData icon;
+  final bool isSelected;
+}

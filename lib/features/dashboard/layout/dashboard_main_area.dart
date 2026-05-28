@@ -2,11 +2,23 @@ import 'package:flutter/material.dart';
 
 import '../../../app/theme/app_colors.dart';
 import '../../../app/theme/app_spacing.dart';
+import '../../activity/presentation/activity_page.dart';
+import '../../checkups/presentation/checkups_page.dart';
+import '../../nutrition/presentation/nutrition_page.dart';
+import '../../reports/presentation/reports_page.dart';
+import '../../settings/presentation/settings_page.dart';
+import '../../wellness_goals/presentation/wellness_goals_page.dart';
+import '../navigation/carepulse_page.dart';
 import 'dashboard_content_grid.dart';
 import 'dashboard_header.dart';
 
 class DashboardMainArea extends StatelessWidget {
-  const DashboardMainArea({super.key});
+  const DashboardMainArea({
+    super.key,
+    this.selectedPage = CarePulsePage.overview,
+  });
+
+  final CarePulsePage selectedPage;
 
   @override
   Widget build(BuildContext context) {
@@ -27,13 +39,49 @@ class DashboardMainArea extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              const DashboardHeader(),
-              SizedBox(height: headerGap),
-              const Expanded(child: DashboardContentGrid()),
+              if (selectedPage == CarePulsePage.overview) ...[
+                const DashboardHeader(),
+                SizedBox(height: headerGap),
+              ],
+              Expanded(
+                child: _DashboardPageContent(selectedPage: selectedPage),
+              ),
             ],
           ),
         );
       },
     );
+  }
+}
+
+class _DashboardPageContent extends StatelessWidget {
+  const _DashboardPageContent({required this.selectedPage});
+
+  final CarePulsePage selectedPage;
+
+  @override
+  Widget build(BuildContext context) {
+    switch (selectedPage) {
+      case CarePulsePage.overview:
+        return const DashboardContentGrid();
+
+      case CarePulsePage.activity:
+        return const ActivityPage();
+
+      case CarePulsePage.wellnessGoals:
+        return const WellnessGoalsPage();
+
+      case CarePulsePage.checkups:
+        return const CheckupsPage();
+
+      case CarePulsePage.nutrition:
+        return const NutritionPage();
+
+      case CarePulsePage.reports:
+        return const ReportsPage();
+
+      case CarePulsePage.settings:
+        return const SettingsPage();
+    }
   }
 }

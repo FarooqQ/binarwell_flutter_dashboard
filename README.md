@@ -469,3 +469,80 @@ CarePulse Flutter Dashboard
 
 ![CarePulse Final UI Polish](docs/screenshots/4.PNG)
 
+
+---
+
+## Release 2 — Activity-First Multi-Page Expansion
+
+Release 2 expands the CarePulse Flutter Dashboard from a single Overview dashboard into a multi-page wellness dashboard experience.
+
+The main addition in this release is a dedicated Activity page with its own navigation identity, layout, visual cards, responsive behavior, and widget test coverage.
+
+### Release 2 Highlights
+
+- Added multi-page dashboard navigation
+- Added Activity page integration
+- Added Activity sidebar active state
+- Added Activity models and mock data
+- Added Today's Movement card
+- Added Activity Goals card
+- Added Hourly Movement chart card
+- Added Today's Activity Sessions card
+- Added Intensity Zones card
+- Added Activity Insights card
+- Improved responsive behavior for Activity layout
+- Added Activity widget test coverage
+- Added Release 2 documentation package
+
+### Activity Page Components
+
+The Activity page includes:
+
+- Activity page header
+- Today / Week / Month filter
+- Today's Movement summary
+- Activity Goals progress overview
+- Hourly Movement chart
+- Today's Activity Sessions
+- Intensity Zones
+- Activity Insights
+
+### Validation
+
+Release 2 has been validated with:
+
+```text
+flutter analyze: No issues found!
+flutter test: All tests passed!
+```
+
+### Screenshots
+
+Release 2 screenshots are organized under:
+
+```text
+docs/screenshots/release_2/
+```
+
+Recommended screenshots include:
+
+- Activity page large desktop
+- Activity page medium desktop
+- Activity page small window
+- Sidebar Activity active state
+- Flutter analyze result
+- Flutter test result
+
+### Current Scope
+
+This project is currently a front-end Flutter dashboard prototype using mock data only.
+
+It does not include:
+
+- Backend integration
+- Authentication
+- Real health data connection
+- Database persistence
+- Real wearable device integration
+- Real report export
+
