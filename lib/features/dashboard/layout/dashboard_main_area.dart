@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../app/theme/app_colors.dart';
+//import '../../../app/theme/app_colors.dart';
 import '../../../app/theme/app_spacing.dart';
 import '../../activity/presentation/activity_page.dart';
 import '../../checkups/presentation/checkups_page.dart';
@@ -25,13 +25,24 @@ class DashboardMainArea extends StatelessWidget {
     return LayoutBuilder(
       builder: (context, constraints) {
         final isCompact = constraints.maxWidth < 760;
-        final rightPadding = isCompact ? AppSpacing.md : AppSpacing.xl;
+        final isWellnessGoals = selectedPage == CarePulsePage.wellnessGoals;
+
+        final pageBackground = const Color(0xFFF6FAF9);
+
+        final leftPadding = isWellnessGoals ? 4.0 : AppSpacing.md;
+
+        final rightPadding = isWellnessGoals
+            ? 4.0
+            : isCompact
+            ? AppSpacing.md
+            : AppSpacing.xl;
+
         final headerGap = isCompact ? AppSpacing.md : AppSpacing.lg;
 
         return Container(
-          color: AppColors.background,
+          color: pageBackground,
           padding: EdgeInsets.fromLTRB(
-            AppSpacing.md,
+            leftPadding,
             AppSpacing.md,
             rightPadding,
             AppSpacing.md,

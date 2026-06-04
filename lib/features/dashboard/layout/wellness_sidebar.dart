@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../navigation/carepulse_page.dart';
 
+const Color _appCanvasBackground = Color(0xFFF6FAF9);
+
 class WellnessSidebar extends StatefulWidget {
   const WellnessSidebar({
     super.key,
@@ -90,13 +92,13 @@ class _WellnessSidebarState extends State<WellnessSidebar> {
       width: 260,
       padding: const EdgeInsets.all(24),
       decoration: BoxDecoration(
-        color: Colors.white,
+        color: _appCanvasBackground,
         borderRadius: BorderRadius.circular(28),
         boxShadow: const [
           BoxShadow(
-            color: Color(0x140F172A),
-            blurRadius: 28,
-            offset: Offset(0, 12),
+            color: Color(0x0F0F172A),
+            blurRadius: 24,
+            offset: Offset(0, 10),
           ),
         ],
       ),
@@ -254,9 +256,9 @@ class _UserCard extends StatelessWidget {
       height: 78,
       padding: const EdgeInsets.all(14),
       decoration: BoxDecoration(
-        color: const Color(0xFFF1F8FB),
+        color: const Color(0xFFF4FAFB),
         borderRadius: BorderRadius.circular(20),
-        border: Border.all(color: const Color(0xFFD9EAF2)),
+        border: Border.all(color: const Color(0xFFDCEEF1)),
       ),
       child: Row(
         children: [

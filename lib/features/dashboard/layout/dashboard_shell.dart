@@ -6,11 +6,14 @@ import '../navigation/carepulse_page.dart';
 import 'dashboard_main_area.dart';
 import 'wellness_sidebar.dart';
 
+const Color _appCanvasBackground = Color(0xFFF6FAF9);
+
 class DashboardShell extends StatefulWidget {
   const DashboardShell({super.key});
 
   static const double _overviewMinimumWidth = 980;
   static const double _activityMinimumWidth = 1180;
+  static const double _wellnessGoalsMinimumWidth = 1180;
 
   @override
   State<DashboardShell> createState() => _DashboardShellState();
@@ -30,8 +33,10 @@ class _DashboardShellState extends State<DashboardShell> {
       case CarePulsePage.activity:
         return DashboardShell._activityMinimumWidth;
 
-      case CarePulsePage.overview:
       case CarePulsePage.wellnessGoals:
+        return DashboardShell._wellnessGoalsMinimumWidth;
+
+      case CarePulsePage.overview:
       case CarePulsePage.checkups:
       case CarePulsePage.nutrition:
       case CarePulsePage.reports:
@@ -45,22 +50,26 @@ class _DashboardShellState extends State<DashboardShell> {
     return LayoutBuilder(
       builder: (context, constraints) {
         final minimumWidth = _minimumWidthForPage(_selectedPage);
-
         final shellWidth = math.max(constraints.maxWidth, minimumWidth);
 
-        return SingleChildScrollView(
-          scrollDirection: Axis.horizontal,
-          child: SizedBox(
-            width: shellWidth,
-            child: Row(
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                WellnessSidebar(
-                  selectedPage: _selectedPage,
-                  onPageSelected: _handlePageSelected,
-                ),
-                Expanded(child: DashboardMainArea(selectedPage: _selectedPage)),
-              ],
+        return Container(
+          color: _appCanvasBackground,
+          child: SingleChildScrollView(
+            scrollDirection: Axis.horizontal,
+            child: SizedBox(
+              width: shellWidth,
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  WellnessSidebar(
+                    selectedPage: _selectedPage,
+                    onPageSelected: _handlePageSelected,
+                  ),
+                  Expanded(
+                    child: DashboardMainArea(selectedPage: _selectedPage),
+                  ),
+                ],
+              ),
             ),
           ),
         );

@@ -546,3 +546,67 @@ It does not include:
 - Real wearable device integration
 - Real report export
 
+
+---
+
+## CarePulse Flutter Dashboard v1.2.0
+
+### Release 3 — Wellness Goals Expansion
+
+Release 3 adds a dedicated Wellness Goals page to CarePulse Flutter Dashboard.
+
+The new page focuses on daily goal tracking, weekly planning, category progress, recent achievements, and wellness insights.
+
+### Release 3 Highlights
+
+- Added Wellness Goals page
+- Added Wellness Goals sidebar navigation item
+- Added active sidebar state
+- Added Wellness Goals data models
+- Added Wellness Goals mock data
+- Added summary KPI cards
+- Added Today's Goal Checklist
+- Added Goal Focus of the Week
+- Added Weekly Goal Planner
+- Added Goal Categories
+- Added Recent Achievements
+- Added Wellness Insights
+- Added Widget test coverage
+- Updated visual spacing and dashboard background
+- Prepared Release 3 documentation
+
+### Wellness Goals Sections
+
+The Wellness Goals page includes:
+
+- Today's Goal Completion
+- Current Streak
+- Active Goals
+- Weekly Completion Rate
+- Today's Goal Checklist
+- Goal Focus of the Week
+- Weekly Goal Planner
+- Goal Categories
+- Recent Achievements
+- Wellness Insights
+
+### Quality Checks
+
+Release 3 was validated using:
+
+```powershell
+dart format lib test
+flutter analyze
+flutter test
+flutter run -d windows
+
+Release 3 Documentation
+
+Release 3 documentation is available in:
+
+docs/release_3/
+docs/screenshots/release_3/
+Version History
+v1.0.0 — Initial polished dashboard release
+v1.1.0 — Activity-first multi-page expansion
+v1.2.0 — Wellness Goals expansion
