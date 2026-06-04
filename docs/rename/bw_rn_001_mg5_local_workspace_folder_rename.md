@@ -1,13 +1,11 @@
-# BW-RN-001-MG5 — Local Workspace Folder Rename
+# BW-RN-001-MG5 â€” Local Workspace Folder Rename
 
 ## Scope
-Rename the local development workspace folder from the previous project folder name to the new BinarWell project folder name.
+Rename the local development workspace folder to match the new BinarWell project identity.
 
 ## Local folder rename
-Old local folder:
-carepulse_flutter_dashboard
+The local workspace folder was renamed to:
 
-New local folder:
 binarwell_flutter_dashboard
 
 ## Verification
