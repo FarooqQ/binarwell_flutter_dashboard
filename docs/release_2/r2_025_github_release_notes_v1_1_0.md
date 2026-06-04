@@ -1,6 +1,6 @@
-# CarePulse Flutter Dashboard v1.1.0
+﻿# CarePulse Flutter Dashboard v1.1.0
 
-## Release 2 � Activity-First Multi-Page Expansion
+## Release 2 — Activity-First Multi-Page Expansion
 
 CarePulse Flutter Dashboard v1.1.0 expands the original v1.0.0 dashboard from a single Overview page into a multi-page wellness dashboard experience.
 
@@ -39,31 +39,39 @@ Release 2 was validated with:
 ```text
 flutter analyze: No issues found!
 flutter test: All tests passed!
-Baseline Protection
+```
+
+---
+
+## Baseline Protection
 
 Version v1.0.0 remains the first public baseline release.
 
 Version v1.1.0 is published as a new release and does not replace v1.0.0.
 
-Current Scope
+---
+
+## Current Scope
 
 This project is a front-end Flutter dashboard prototype using mock data only.
 
 It does not include:
 
-Backend integration
-Authentication
-Real database persistence
-Real wearable device integration
-Real report export
-Real time-filter logic
-Recommended Use
+- Backend integration
+- Authentication
+- Real database persistence
+- Real wearable device integration
+- Real report export
+- Real time-filter logic
+
+---
+
+## Recommended Use
 
 This release can be used as a Flutter UI portfolio example for:
 
-Dashboard UI development
-Multi-page Flutter layout
-Wellness dashboard design
-Responsive desktop Flutter UI
-Clean release documentation workflow
-
+- Dashboard UI development
+- Multi-page Flutter layout
+- Wellness dashboard design
+- Responsive desktop Flutter UI
+- Clean release documentation workflow

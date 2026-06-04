@@ -69,3 +69,9 @@ coverage/
 *.key
 secrets.*
 credentials.*
+
+# Local private notes and non-public portfolio material
+.private/
+docs/portfolio/**/private/
+*_private_notes.md
+*_personal_notes.md
