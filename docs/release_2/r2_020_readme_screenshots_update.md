@@ -6,7 +6,7 @@ R2-020 — README and Screenshots Update
 
 ## Purpose
 
-This gate updates the public-facing documentation for CarePulse Flutter Dashboard Release 2.
+This gate updates the public-facing documentation for BinarWell Flutter Dashboard Release 2.
 
 The goal is to prepare the project README and screenshot structure for GitHub and portfolio presentation.
 

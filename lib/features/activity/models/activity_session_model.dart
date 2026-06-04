@@ -15,3 +15,4 @@ class ActivitySessionModel {
   final String secondaryMetric;
   final String calories;
 }
+

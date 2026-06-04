@@ -10,7 +10,7 @@ Build the first dashboard shell structure only.
 - Created dashboard layout folder.
 - Created DashboardShell.
 - Created DashboardMainArea.
-- Connected CarePulseDashboardPage to DashboardShell.
+- Connected BinarWellDashboardPage to DashboardShell.
 - Added left placeholder sidebar area.
 - Added right placeholder main content area.
 
@@ -19,12 +19,12 @@ Build the first dashboard shell structure only.
 - lib/features/dashboard/layout/dashboard_main_area.dart
 
 ## Files Updated
-- lib/features/dashboard/page/carepulse_dashboard_page.dart
+- lib/features/dashboard/page/BinarWell_dashboard_page.dart
 - test/widget_test.dart
 
 ## UI Result
 - Left side: Sidebar Area
-- Right side: CarePulse Dashboard
+- Right side: BinarWell Dashboard
 
 ## Validation
 - dart format lib test

@@ -2,13 +2,13 @@
 
 ## Gate
 
-CP-PORT-001-MG3 — LinkedIn Post
+CP-PORT-001-MG3 ï¿½ LinkedIn Post
 
 ## Public Posting Checklist
 
 | Check | Status |
 |---|---|
-| Post explains CarePulse v1.1.0 clearly | PASSED |
+| Post explains BinarWell v1.1.0 clearly | PASSED |
 | Repository link included | PASSED |
 | Release v1.1.0 link included | PASSED |
 | Flutter and Dart mentioned | PASSED |

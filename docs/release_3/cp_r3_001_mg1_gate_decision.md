@@ -6,7 +6,7 @@ CP-R3-001-MG1 — Reference Lock and Scope Definition
 
 ## Project
 
-CarePulse Flutter Dashboard
+BinarWell Flutter Dashboard
 
 ## Target Version
 

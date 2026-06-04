@@ -43,8 +43,8 @@ Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.e
 ulse_flutter_dashboard\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-xiirci\\Debug\\cmTC_1924c.exe" /INCREMENTAL 
 /ILK:"cmTC_1924c.dir\\Debug\\cmTC_1924c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib 
 uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG 
-/PDB:"D:/My_Experience/car_helth/carepulse_flutter_dashboard/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-xiirci/Debug/cmTC_1924c.pdb" 
-/SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/My_Experience/car_helth/carepulse_flutter_dashboard/build/windows/x64/CMakeFiles
+/PDB:"D:/My_Experience/car_helth/BinarWell_flutter_dashboard/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-xiirci/Debug/cmTC_1924c.pdb" 
+/SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/My_Experience/car_helth/BinarWell_flutter_dashboard/build/windows/x64/CMakeFiles
 /CMakeScratch/TryCompile-xiirci/Debug/cmTC_1924c.lib" /MACHINE:X64  /machine:x64 cmTC_1924c.dir\\Debug\\CMakeCXXCompilerABI.obj
 build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:125:      - "C:/Program Files/Microsoft Visual 
 Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 

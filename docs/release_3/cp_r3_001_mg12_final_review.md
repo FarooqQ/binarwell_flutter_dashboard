@@ -6,7 +6,7 @@ CP-R3-001-MG12 — Final Release 3 Review and GitHub Publishing Preparation
 
 ## Release
 
-CarePulse Flutter Dashboard v1.2.0
+BinarWell Flutter Dashboard v1.2.0
 
 ## Release Name
 
@@ -14,7 +14,7 @@ Release 3 — Wellness Goals Expansion
 
 ## Final Review Summary
 
-Release 3 adds a dedicated Wellness Goals page to CarePulse Flutter Dashboard.
+Release 3 adds a dedicated Wellness Goals page to BinarWell Flutter Dashboard.
 
 The page includes:
 

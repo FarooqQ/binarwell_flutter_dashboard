@@ -1,8 +1,8 @@
-# R2-024 — Merge, Tag, and Push Report
+# R2-024 ï¿½ Merge, Tag, and Push Report
 
 ## Gate
 
-R2-024 — Merge, Tag, and Push
+R2-024 ï¿½ Merge, Tag, and Push
 
 ## Status
 
@@ -14,7 +14,7 @@ This gate merges Release 2 into the main branch, creates the v1.1.0 release tag,
 
 ## Release Target
 
-CarePulse Flutter Dashboard v1.1.0
+BinarWell Flutter Dashboard v1.1.0
 
 ## Release Theme
 
@@ -51,5 +51,5 @@ Release 2 is merged and ready to be tagged and pushed as v1.1.0.
 
 ## Next Gate
 
-R2-025 — GitHub Release v1.1.0
+R2-025 ï¿½ GitHub Release v1.1.0
 

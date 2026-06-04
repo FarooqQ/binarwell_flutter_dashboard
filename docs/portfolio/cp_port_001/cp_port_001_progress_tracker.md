@@ -2,15 +2,15 @@
 
 ## Package
 
-CP-PORT-001 � CarePulse Portfolio and Client Presentation Package
+CP-PORT-001 � BinarWell Portfolio and Client Presentation Package
 
 ## Purpose
 
-This package prepares public-facing and client-facing presentation materials for the CarePulse Flutter Dashboard v1.1.0 project.
+This package prepares public-facing and client-facing presentation materials for the BinarWell Flutter Dashboard v1.1.0 project.
 
 ## Featured Project
 
-CarePulse Flutter Dashboard v1.1.0
+BinarWell Flutter Dashboard v1.1.0
 
 ## Release Theme
 

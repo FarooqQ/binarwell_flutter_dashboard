@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../../app/theme/app_spacing.dart';
-import '../data/mock_carepulse_data.dart';
+import '../data/mock_binarwell_data.dart';
 import '../widgets/body_balance_card.dart';
 import '../widgets/checkup_timeline_card.dart';
 import '../widgets/daily_goals_card.dart';
@@ -15,7 +15,7 @@ class DashboardContentGrid extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final activitySummary = MockCarePulseData.activitySummary;
+    final activitySummary = MockBinarWellData.activitySummary;
 
     return LayoutBuilder(
       builder: (context, constraints) {
@@ -67,18 +67,18 @@ class DashboardContentGrid extends StatelessWidget {
                 const SizedBox(height: AppSpacing.md),
                 const SizedBox(
                   height: 300,
-                  child: DailyGoalsCard(goals: MockCarePulseData.dailyGoals),
+                  child: DailyGoalsCard(goals: MockBinarWellData.dailyGoals),
                 ),
                 const SizedBox(height: AppSpacing.md),
                 const SizedBox(
                   height: 300,
-                  child: CheckupTimelineCard(items: MockCarePulseData.checkups),
+                  child: CheckupTimelineCard(items: MockBinarWellData.checkups),
                 ),
                 const SizedBox(height: AppSpacing.md),
                 const SizedBox(
                   height: 300,
                   child: VitalMetricsCard(
-                    metrics: MockCarePulseData.vitalMetrics,
+                    metrics: MockBinarWellData.vitalMetrics,
                   ),
                 ),
                 const SizedBox(height: AppSpacing.md),
@@ -137,7 +137,7 @@ class DashboardContentGrid extends StatelessWidget {
                     ),
                   ),
                   const _DashboardGridItem(
-                    child: DailyGoalsCard(goals: MockCarePulseData.dailyGoals),
+                    child: DailyGoalsCard(goals: MockBinarWellData.dailyGoals),
                   ),
                 ],
               ),
@@ -147,12 +147,12 @@ class DashboardContentGrid extends StatelessWidget {
                 children: [
                   const _DashboardGridItem(
                     child: CheckupTimelineCard(
-                      items: MockCarePulseData.checkups,
+                      items: MockBinarWellData.checkups,
                     ),
                   ),
                   const _DashboardGridItem(
                     child: VitalMetricsCard(
-                      metrics: MockCarePulseData.vitalMetrics,
+                      metrics: MockBinarWellData.vitalMetrics,
                     ),
                   ),
                   _DashboardGridItem(
@@ -197,3 +197,4 @@ class _DashboardGridItem {
   final Widget child;
   final int flex;
 }
+

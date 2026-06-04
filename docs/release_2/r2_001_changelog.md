@@ -2,7 +2,7 @@
 
 ## Gate
 
-R2-001 — Release 2 Foundation & Visual Contract
+R2-001 ï¿½ Release 2 Foundation & Visual Contract
 
 ## Added
 
@@ -15,7 +15,7 @@ R2-001 — Release 2 Foundation & Visual Contract
 
 ## Purpose
 
-This gate establishes the official foundation for CarePulse Flutter Dashboard v1.1.0 before starting code implementation.
+This gate establishes the official foundation for BinarWell Flutter Dashboard v1.1.0 before starting code implementation.
 
 ## Visual Reference
 

@@ -4,7 +4,7 @@
 C021 — GitHub Preparation
 
 ## Purpose
-Check whether the CarePulse Flutter Dashboard project is safe for public GitHub preparation.
+Check whether the BinarWell Flutter Dashboard project is safe for public GitHub preparation.
 
 ## Checks Performed
 

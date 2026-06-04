@@ -1,8 +1,8 @@
-# R2 Visual Contract — Activity Page
+# R2 Visual Contract ï¿½ Activity Page
 
 ## Purpose
 
-This document defines the official visual contract for the Activity page in CarePulse Flutter Dashboard v1.1.0.
+This document defines the official visual contract for the Activity page in BinarWell Flutter Dashboard v1.1.0.
 
 The Activity page must be implemented according to the uploaded reference image:
 
@@ -138,7 +138,7 @@ Activity Page
 
 The page must:
 
-- Keep the CarePulse visual identity
+- Keep the BinarWell visual identity
 - Use soft cards
 - Use rounded corners
 - Use clean spacing
@@ -157,5 +157,5 @@ The page must:
 - Intensity Zones are visible
 - Activity Insights are visible
 - No major overflow issues
-- Page remains consistent with CarePulse design language
+- Page remains consistent with BinarWell design language
 

@@ -263,3 +263,4 @@ class _HourlyMovementChartPainter extends CustomPainter {
     return oldDelegate.movements != movements;
   }
 }
+

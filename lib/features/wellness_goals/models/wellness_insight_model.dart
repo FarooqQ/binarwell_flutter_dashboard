@@ -13,3 +13,4 @@ class WellnessInsightModel {
   final String subtitle;
   final String iconKey;
 }
+

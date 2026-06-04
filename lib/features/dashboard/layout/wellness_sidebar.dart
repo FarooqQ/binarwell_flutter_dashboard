@@ -1,59 +1,59 @@
 import 'package:flutter/material.dart';
 
-import '../navigation/carepulse_page.dart';
+import '../navigation/binarwell_page.dart';
 
 const Color _appCanvasBackground = Color(0xFFF6FAF9);
 
 class WellnessSidebar extends StatefulWidget {
   const WellnessSidebar({
     super.key,
-    this.selectedPage = CarePulsePage.overview,
+    this.selectedPage = BinarWellPage.overview,
     this.onPageSelected,
   });
 
-  final CarePulsePage selectedPage;
-  final ValueChanged<CarePulsePage>? onPageSelected;
+  final BinarWellPage selectedPage;
+  final ValueChanged<BinarWellPage>? onPageSelected;
 
   @override
   State<WellnessSidebar> createState() => _WellnessSidebarState();
 }
 
 class _WellnessSidebarState extends State<WellnessSidebar> {
-  late CarePulsePage _localSelectedPage;
+  late BinarWellPage _localSelectedPage;
 
   static const List<_SidebarItemData> _items = [
     _SidebarItemData(
-      page: CarePulsePage.overview,
+      page: BinarWellPage.overview,
       icon: Icons.grid_view_rounded,
       label: 'Overview',
     ),
     _SidebarItemData(
-      page: CarePulsePage.activity,
+      page: BinarWellPage.activity,
       icon: Icons.directions_walk_rounded,
       label: 'Activity',
     ),
     _SidebarItemData(
-      page: CarePulsePage.wellnessGoals,
+      page: BinarWellPage.wellnessGoals,
       icon: Icons.flag_rounded,
       label: 'Wellness Goals',
     ),
     _SidebarItemData(
-      page: CarePulsePage.checkups,
+      page: BinarWellPage.checkups,
       icon: Icons.fact_check_rounded,
       label: 'Checkups',
     ),
     _SidebarItemData(
-      page: CarePulsePage.nutrition,
+      page: BinarWellPage.nutrition,
       icon: Icons.restaurant_rounded,
       label: 'Nutrition',
     ),
     _SidebarItemData(
-      page: CarePulsePage.reports,
+      page: BinarWellPage.reports,
       icon: Icons.analytics_rounded,
       label: 'Reports',
     ),
     _SidebarItemData(
-      page: CarePulsePage.settings,
+      page: BinarWellPage.settings,
       icon: Icons.settings_rounded,
       label: 'Settings',
     ),
@@ -74,7 +74,7 @@ class _WellnessSidebarState extends State<WellnessSidebar> {
     }
   }
 
-  void _selectPage(CarePulsePage page) {
+  void _selectPage(BinarWellPage page) {
     setState(() {
       _localSelectedPage = page;
     });
@@ -155,7 +155,7 @@ class _SidebarHeader extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'CarePulse',
+                'BinarWell',
                 overflow: TextOverflow.ellipsis,
                 maxLines: 1,
                 style: TextStyle(
@@ -318,7 +318,8 @@ class _SidebarItemData {
     required this.label,
   });
 
-  final CarePulsePage page;
+  final BinarWellPage page;
   final IconData icon;
   final String label;
 }
+

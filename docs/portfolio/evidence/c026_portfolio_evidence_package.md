@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document collects the public evidence and portfolio materials for the CarePulse Flutter Dashboard project.
+This document collects the public evidence and portfolio materials for the BinarWell Flutter Dashboard project.
 
 The purpose of this package is to make the project easier to use in:
 
@@ -17,7 +17,7 @@ The purpose of this package is to make the project easier to use in:
 
 ## Project Overview
 
-CarePulse Flutter Dashboard is an inspired Flutter wellness dashboard practice project built with Flutter and Dart.
+BinarWell Flutter Dashboard is an inspired Flutter wellness dashboard practice project built with Flutter and Dart.
 
 The project focuses on:
 
@@ -38,7 +38,7 @@ The project focuses on:
 
 Repository:
 
-https://github.com/FarooqQ/carepulse_flutter_dashboard
+https://github.com/FarooqQ/BinarWell_flutter_dashboard
 
 ---
 
@@ -46,11 +46,11 @@ https://github.com/FarooqQ/carepulse_flutter_dashboard
 
 Release:
 
-https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.0.0
+https://github.com/FarooqQ/BinarWell_flutter_dashboard/releases/tag/v1.0.0
 
 Release Status:
 
-CarePulse Flutter Dashboard v1.0.0 was published as the first public release.
+BinarWell Flutter Dashboard v1.0.0 was published as the first public release.
 
 ---
 
@@ -84,7 +84,7 @@ The project was added to the LinkedIn Featured section.
 
 ## CV / Portfolio Description
 
-CarePulse Flutter Dashboard — An inspired Flutter wellness dashboard practice project built with Flutter and Dart, focused on reusable UI components, mock data separation, responsive layout, documentation, and GitHub-ready release preparation.
+BinarWell Flutter Dashboard — An inspired Flutter wellness dashboard practice project built with Flutter and Dart, focused on reusable UI components, mock data separation, responsive layout, documentation, and GitHub-ready release preparation.
 
 ---
 
@@ -119,4 +119,4 @@ It is an educational and portfolio-oriented Flutter UI practice project.
 
 C026 Portfolio Evidence Package: COMPLETED
 
-CarePulse Flutter Dashboard is ready to be used as a public portfolio evidence project.
+BinarWell Flutter Dashboard is ready to be used as a public portfolio evidence project.

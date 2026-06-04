@@ -4,7 +4,7 @@
 C020 — README
 
 ## Scope
-Create a professional README.md file for the CarePulse Flutter Dashboard project.
+Create a professional README.md file for the BinarWell Flutter Dashboard project.
 
 ## Completed Actions
 - Created README.md.

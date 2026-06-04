@@ -1,8 +1,8 @@
-# CarePulse Flutter Dashboard v1.1.0 — Project Case Study
+# BinarWell Flutter Dashboard v1.1.0 ï¿½ Project Case Study
 
 ## Project Name
 
-CarePulse Flutter Dashboard
+BinarWell Flutter Dashboard
 
 ## Version
 
@@ -26,7 +26,7 @@ Flutter UI Practice / Portfolio Project
 
 ## Project Overview
 
-CarePulse Flutter Dashboard is an inspired wellness dashboard prototype built with Flutter and Dart.
+BinarWell Flutter Dashboard is an inspired wellness dashboard prototype built with Flutter and Dart.
 
 The project began as a polished single-page wellness dashboard and was expanded in version v1.1.0 into an Activity-first multi-page dashboard experience.
 
@@ -75,7 +75,7 @@ The project includes:
 
 ## Release 2 Improvements
 
-CarePulse Flutter Dashboard v1.1.0 adds:
+BinarWell Flutter Dashboard v1.1.0 adds:
 
 - Navigation model and page identity
 - Sidebar active state
@@ -118,15 +118,15 @@ flutter test: All tests passed!
 
 ## Public Repository
 
-https://github.com/FarooqQ/carepulse_flutter_dashboard
+https://github.com/FarooqQ/BinarWell_flutter_dashboard
 
 ## Public Release
 
-https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.1.0
+https://github.com/FarooqQ/BinarWell_flutter_dashboard/releases/tag/v1.1.0
 
 ## Baseline Release
 
-https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.0.0
+https://github.com/FarooqQ/BinarWell_flutter_dashboard/releases/tag/v1.0.0
 
 ## Current Scope
 

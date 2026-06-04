@@ -2,7 +2,7 @@
 
 ## Gate
 
-R2-026 — Final Public Verification
+R2-026 ï¿½ Final Public Verification
 
 ## GitHub Public Checks
 
@@ -38,5 +38,5 @@ R2-026 — Final Public Verification
 
 Final public verification is complete.
 
-CarePulse Flutter Dashboard v1.1.0 is publicly available as Release 2.
+BinarWell Flutter Dashboard v1.1.0 is publicly available as Release 2.
 

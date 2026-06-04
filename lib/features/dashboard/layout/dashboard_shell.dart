@@ -2,7 +2,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 
-import '../navigation/carepulse_page.dart';
+import '../navigation/binarwell_page.dart';
 import 'dashboard_main_area.dart';
 import 'wellness_sidebar.dart';
 
@@ -20,27 +20,27 @@ class DashboardShell extends StatefulWidget {
 }
 
 class _DashboardShellState extends State<DashboardShell> {
-  CarePulsePage _selectedPage = CarePulsePage.overview;
+  BinarWellPage _selectedPage = BinarWellPage.overview;
 
-  void _handlePageSelected(CarePulsePage page) {
+  void _handlePageSelected(BinarWellPage page) {
     setState(() {
       _selectedPage = page;
     });
   }
 
-  double _minimumWidthForPage(CarePulsePage page) {
+  double _minimumWidthForPage(BinarWellPage page) {
     switch (page) {
-      case CarePulsePage.activity:
+      case BinarWellPage.activity:
         return DashboardShell._activityMinimumWidth;
 
-      case CarePulsePage.wellnessGoals:
+      case BinarWellPage.wellnessGoals:
         return DashboardShell._wellnessGoalsMinimumWidth;
 
-      case CarePulsePage.overview:
-      case CarePulsePage.checkups:
-      case CarePulsePage.nutrition:
-      case CarePulsePage.reports:
-      case CarePulsePage.settings:
+      case BinarWellPage.overview:
+      case BinarWellPage.checkups:
+      case BinarWellPage.nutrition:
+      case BinarWellPage.reports:
+      case BinarWellPage.settings:
         return DashboardShell._overviewMinimumWidth;
     }
   }
@@ -77,3 +77,4 @@ class _DashboardShellState extends State<DashboardShell> {
     );
   }
 }
+

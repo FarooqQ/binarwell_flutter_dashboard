@@ -15,7 +15,7 @@ C005 is accepted because the dashboard shell was created successfully and the sc
 
 ## Visual Check
 - Left area displays Sidebar Area.
-- Right area displays CarePulse Dashboard.
+- Right area displays BinarWell Dashboard.
 - No blocking layout issue was reported after validation.
 
 ## Final Decision

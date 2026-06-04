@@ -17,4 +17,4 @@ C024-MG2 LinkedIn Post: PENDING / OPTIONAL
 
 ## Technical Release Status
 
-CarePulse Flutter Dashboard v1.0.0 is publicly released on GitHub.
+BinarWell Flutter Dashboard v1.0.0 is publicly released on GitHub.

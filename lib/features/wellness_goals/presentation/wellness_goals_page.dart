@@ -1,4 +1,4 @@
-﻿import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 
 import 'widgets/wellness_goals_header.dart';
 import 'widgets/wellness_goals_layout.dart';
@@ -22,3 +22,4 @@ class WellnessGoalsPage extends StatelessWidget {
     );
   }
 }
+

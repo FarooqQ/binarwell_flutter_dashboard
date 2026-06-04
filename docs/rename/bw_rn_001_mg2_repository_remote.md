@@ -1,18 +1,18 @@
-# BW-RN-001-MG2 — Rename GitHub Repository and Remote URL
+# BW-RN-001-MG2 ï¿½ Rename GitHub Repository and Remote URL
 
 ## Scope
-Rename the GitHub repository and update the local Git remote URL from CarePulse identity to BinarWell identity.
+Rename the GitHub repository and update the local Git remote URL from BinarWell identity to BinarWell identity.
 
 ## Repository rename
 Old repository name:
-carepulse_flutter_dashboard
+BinarWell_flutter_dashboard
 
 New repository name:
 binarwell_flutter_dashboard
 
 ## Remote URL
 Old remote:
-https://github.com/FarooqQ/carepulse_flutter_dashboard.git
+https://github.com/FarooqQ/BinarWell_flutter_dashboard.git
 
 New remote:
 https://github.com/FarooqQ/binarwell_flutter_dashboard.git

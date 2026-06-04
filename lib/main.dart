@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'app/carepulse_app.dart';
+import 'app/binarwell_app.dart';
 
 void main() {
-  runApp(const CarePulseApp());
+  runApp(const BinarWellApp());
 }
+

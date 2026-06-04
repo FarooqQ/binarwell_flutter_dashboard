@@ -2,7 +2,7 @@
 
 ## Gate
 
-CP-PORT-001-MG2 — Project Case Study
+CP-PORT-001-MG2 ï¿½ Project Case Study
 
 ## Status
 
@@ -14,7 +14,7 @@ PASSED
 - Created private local notes folder
 - Added private folder protection to .gitignore
 - Created Public and Private Content Rules
-- Created public Project Case Study for CarePulse Flutter Dashboard v1.1.0
+- Created public Project Case Study for BinarWell Flutter Dashboard v1.1.0
 - Created local private notes template outside Git tracking
 - Confirmed public case study does not include private personal material
 
@@ -33,5 +33,5 @@ CP-PORT-001-MG2 Project Case Study: PASSED
 
 ## Next Gate
 
-CP-PORT-001-MG3 — LinkedIn Post
+CP-PORT-001-MG3 ï¿½ LinkedIn Post
 

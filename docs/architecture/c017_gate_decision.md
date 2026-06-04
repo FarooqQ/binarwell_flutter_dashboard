@@ -26,7 +26,7 @@ The dashboard still displays all previously implemented cards:
 
 ## Architecture Check
 Mock data now lives in:
-- lib/features/dashboard/data/mock_carepulse_data.dart
+- lib/features/dashboard/data/mock_BinarWell_data.dart
 
 Models now live in:
 - lib/features/dashboard/models/

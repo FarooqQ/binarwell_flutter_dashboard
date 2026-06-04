@@ -1,7 +1,7 @@
 ﻿# C022 — Final Review Checklist
 
 ## Project
-CarePulse Flutter Dashboard
+BinarWell Flutter Dashboard
 
 ## Review Stage
 C022 — Final Review
@@ -10,11 +10,11 @@ C022 — Final Review
 
 ## Identity Review
 
-- [ ] Project name is CarePulse Flutter Dashboard.
+- [ ] Project name is BinarWell Flutter Dashboard.
 - [ ] The project does not use the name Zero Health.
 - [ ] The project does not use the name ZeroHealth.
 - [ ] The project does not use original third-party brand names.
-- [ ] The project uses its own CarePulse identity.
+- [ ] The project uses its own BinarWell identity.
 
 ---
 
@@ -23,7 +23,7 @@ C022 — Final Review
 - [ ] Colors are different from the original inspiration source.
 - [ ] Layout is not a 1:1 copy of the original design.
 - [ ] Text labels are different and project-specific.
-- [ ] Sidebar menu names are unique to CarePulse.
+- [ ] Sidebar menu names are unique to BinarWell.
 - [ ] Dashboard cards are implemented as an inspired version.
 - [ ] UI polish is complete and accepted.
 - [ ] No blocking overflow is visible.
@@ -33,7 +33,7 @@ C022 — Final Review
 ## Data Review
 
 - [ ] All dashboard data is mock data.
-- [ ] Mock data is separated into mock_carepulse_data.dart.
+- [ ] Mock data is separated into mock_BinarWell_data.dart.
 - [ ] Models are separated into the models folder.
 - [ ] No real medical data is included.
 - [ ] No real patient records are included.

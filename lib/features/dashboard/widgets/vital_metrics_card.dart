@@ -33,3 +33,4 @@ class VitalMetricsCard extends StatelessWidget {
     );
   }
 }
+

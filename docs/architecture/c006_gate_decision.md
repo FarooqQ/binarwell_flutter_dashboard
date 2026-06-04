@@ -7,7 +7,7 @@ C006 — Wellness Sidebar
 PASSED
 
 ## Decision Reason
-C006 is accepted because the real CarePulse sidebar was implemented successfully, the sidebar content appears correctly, and the previous layout overflow issue was fixed.
+C006 is accepted because the real BinarWell sidebar was implemented successfully, the sidebar content appears correctly, and the previous layout overflow issue was fixed.
 
 ## Quality Checks
 - flutter analyze: No issues found!
@@ -15,7 +15,7 @@ C006 is accepted because the real CarePulse sidebar was implemented successfully
 
 ## Visual Check
 The sidebar displays:
-- CarePulse
+- BinarWell
 - Wellness Dashboard
 - Overview
 - Activity

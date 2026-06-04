@@ -6,7 +6,7 @@ C019 — UI Polish
 
 ## Scope
 
-Improve the visual consistency of the existing CarePulse dashboard UI without adding new features.
+Improve the visual consistency of the existing BinarWell dashboard UI without adding new features.
 
 ## Main Goal
 
@@ -166,7 +166,7 @@ The stage is considered complete because the dashboard now has improved visual p
 
 ## Architectural Notes
 
-This stage followed the existing CarePulse dashboard architecture rules:
+This stage followed the existing BinarWell dashboard architecture rules:
 
 - No business logic was added to UI widgets.
 - No new feature behavior was introduced.
@@ -185,7 +185,7 @@ The new AppShadows token file improves maintainability because future shadow cha
 
 ### Final Result
 
-The CarePulse dashboard now has a cleaner and more professional visual appearance.
+The BinarWell dashboard now has a cleaner and more professional visual appearance.
 
 The most important improvement is not only stronger shadows, but better contrast between the page background and white dashboard surfaces. This makes the UI more readable, more structured, and visually closer to a polished dashboard product.
 
@@ -207,7 +207,7 @@ Suggested next focus:
 
 ## C019 Closure Statement
 
-C019 successfully completed the visual polish stage for the CarePulse dashboard.
+C019 successfully completed the visual polish stage for the BinarWell dashboard.
 
 The UI is now more refined, readable, and visually structured. The improvements were intentionally limited to presentation-level changes, keeping the project stable and avoiding unnecessary architectural or feature changes.
 

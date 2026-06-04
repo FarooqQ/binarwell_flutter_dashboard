@@ -1,12 +1,12 @@
-# R2-019 — Release 2 Documentation Package
+# R2-019 ï¿½ Release 2 Documentation Package
 
 ## Gate
 
-R2-019 — Release 2 Documentation Package
+R2-019 ï¿½ Release 2 Documentation Package
 
 ## Purpose
 
-This gate creates a documentation package for Release 2 of the CarePulse Flutter Dashboard.
+This gate creates a documentation package for Release 2 of the BinarWell Flutter Dashboard.
 
 Release 2 focuses on expanding the original single-page dashboard into an activity-first multi-page experience while preserving the original Overview page.
 
@@ -110,5 +110,5 @@ These limitations are acceptable for the current portfolio-focused Release 2 sco
 
 ## Next Gate
 
-R2-020 — Release 2 Review and Cleanup
+R2-020 ï¿½ Release 2 Review and Cleanup
 

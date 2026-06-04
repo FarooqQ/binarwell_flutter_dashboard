@@ -4,94 +4,94 @@
 
 Folder PATH listing for volume New Volume
 Volume serial number is 00000013 1C9D:76F5
-D:\MY_EXPERIENCE\CAR_HELTH\CAREPULSE_FLUTTER_DASHBOARD\LIB
-¦   main.dart
-¦   
+D:\MY_EXPERIENCE\CAR_HELTH\BinarWell_FLUTTER_DASHBOARD\LIB
+ï¿½   main.dart
+ï¿½   
 +---app
-¦   ¦   carepulse_app.dart
-¦   ¦   
-¦   +---theme
-¦           app_colors.dart
-¦           app_radius.dart
-¦           app_shadows.dart
-¦           app_spacing.dart
-¦           app_text_styles.dart
-¦           app_theme.dart
-¦           
+ï¿½   ï¿½BinarWelllse_app.dart
+ï¿½   ï¿½   
+ï¿½   +---theme
+ï¿½           app_colors.dart
+ï¿½           app_radius.dart
+ï¿½           app_shadows.dart
+ï¿½           app_spacing.dart
+ï¿½           app_text_styles.dart
+ï¿½           app_theme.dart
+ï¿½           
 +---features
     +---activity
-    ¦   +---data
-    ¦   ¦       activity_mock_data.dart
-    ¦   ¦       
-    ¦   +---models
-    ¦   ¦       activity_goal_model.dart
-    ¦   ¦       activity_insight_model.dart
-    ¦   ¦       activity_session_model.dart
-    ¦   ¦       hourly_movement_model.dart
-    ¦   ¦       intensity_zone_model.dart
-    ¦   ¦       
-    ¦   +---presentation
-    ¦       ¦   activity_page.dart
-    ¦       ¦   
-    ¦       +---widgets
-    ¦               activity_goals_card.dart
-    ¦               activity_insights_card.dart
-    ¦               activity_sessions_card.dart
-    ¦               activity_time_filter.dart
-    ¦               hourly_movement_chart_card.dart
-    ¦               intensity_zones_card.dart
-    ¦               today_movement_card.dart
-    ¦               
+    ï¿½   +---data
+    ï¿½   ï¿½       activity_mock_data.dart
+    ï¿½   ï¿½       
+    ï¿½   +---models
+    ï¿½   ï¿½       activity_goal_model.dart
+    ï¿½   ï¿½       activity_insight_model.dart
+    ï¿½   ï¿½       activity_session_model.dart
+    ï¿½   ï¿½       hourly_movement_model.dart
+    ï¿½   ï¿½       intensity_zone_model.dart
+    ï¿½   ï¿½       
+    ï¿½   +---presentation
+    ï¿½       ï¿½   activity_page.dart
+    ï¿½       ï¿½   
+    ï¿½       +---widgets
+    ï¿½               activity_goals_card.dart
+    ï¿½               activity_insights_card.dart
+    ï¿½               activity_sessions_card.dart
+    ï¿½               activity_time_filter.dart
+    ï¿½               hourly_movement_chart_card.dart
+    ï¿½               intensity_zones_card.dart
+    ï¿½               today_movement_card.dart
+    ï¿½               
     +---checkups
-    ¦   +---presentation
-    ¦           checkups_page.dart
-    ¦           
+    ï¿½   +---presentation
+    ï¿½           checkups_page.dart
+    ï¿½           
     +---dashboard
-    ¦   +---data
-    ¦   ¦       mock_carepulse_data.dart
-    ¦   ¦       
-    ¦   +---layout
-    ¦   ¦       dashboard_content_grid.dart
-    ¦   ¦       dashboard_header.dart
-    ¦   ¦       dashboard_main_area.dart
-    ¦   ¦       dashboard_shell.dart
-    ¦   ¦       wellness_sidebar.dart
-    ¦   ¦       
-    ¦   +---models
-    ¦   ¦       activity_summary.dart
-    ¦   ¦       checkup_item.dart
-    ¦   ¦       vital_metric.dart
-    ¦   ¦       wellness_goal.dart
-    ¦   ¦       
-    ¦   +---navigation
-    ¦   ¦       carepulse_page.dart
-    ¦   ¦       
-    ¦   +---page
-    ¦   ¦       carepulse_dashboard_page.dart
-    ¦   ¦       
-    ¦   +---widgets
-    ¦           body_balance_card.dart
-    ¦           checkup_timeline_card.dart
-    ¦           daily_goals_card.dart
-    ¦           dashboard_card.dart
-    ¦           metric_tile.dart
-    ¦           summary_metric_card.dart
-    ¦           vital_metrics_card.dart
-    ¦           weekly_movement_card.dart
-    ¦           wellness_score_card.dart
-    ¦           
+    ï¿½   +---data
+    ï¿½   ï¿½       mBinarWellulse_data.dart
+    ï¿½   ï¿½       
+    ï¿½   +---layout
+    ï¿½   ï¿½       dashboard_content_grid.dart
+    ï¿½   ï¿½       dashboard_header.dart
+    ï¿½   ï¿½       dashboard_main_area.dart
+    ï¿½   ï¿½       dashboard_shell.dart
+    ï¿½   ï¿½       wellness_sidebar.dart
+    ï¿½   ï¿½       
+    ï¿½   +---models
+    ï¿½   ï¿½       activity_summary.dart
+    ï¿½   ï¿½       checkup_item.dart
+    ï¿½   ï¿½       vital_metric.dart
+    ï¿½   ï¿½       wellness_goal.dart
+    ï¿½   ï¿½       
+    ï¿½   +---navigation
+    ï¿½   ï¿½   BinarWellulse_page.dart
+    ï¿½   ï¿½       
+    ï¿½   +---page
+    ï¿½   ï¿½   BinarWellulse_dashboard_page.dart
+    ï¿½   ï¿½       
+    ï¿½   +---widgets
+    ï¿½           body_balance_card.dart
+    ï¿½           checkup_timeline_card.dart
+    ï¿½           daily_goals_card.dart
+    ï¿½           dashboard_card.dart
+    ï¿½           metric_tile.dart
+    ï¿½           summary_metric_card.dart
+    ï¿½           vital_metrics_card.dart
+    ï¿½           weekly_movement_card.dart
+    ï¿½           wellness_score_card.dart
+    ï¿½           
     +---nutrition
-    ¦   +---presentation
-    ¦           nutrition_page.dart
-    ¦           
+    ï¿½   +---presentation
+    ï¿½           nutrition_page.dart
+    ï¿½           
     +---reports
-    ¦   +---presentation
-    ¦           reports_page.dart
-    ¦           
+    ï¿½   +---presentation
+    ï¿½           reports_page.dart
+    ï¿½           
     +---settings
-    ¦   +---presentation
-    ¦           settings_page.dart
-    ¦           
+    ï¿½   +---presentation
+    ï¿½           settings_page.dart
+    ï¿½           
     +---wellness_goals
         +---presentation
                 wellness_goals_page.dart
@@ -101,7 +101,7 @@ D:\MY_EXPERIENCE\CAR_HELTH\CAREPULSE_FLUTTER_DASHBOARD\LIB
 
 Folder PATH listing for volume New Volume
 Volume serial number is 00000081 1C9D:76F5
-D:\MY_EXPERIENCE\CAR_HELTH\CAREPULSE_FLUTTER_DASHBOARD\TEST
+D:\MY_EXPERIENCE\CAR_HELTH\BinarWell_FLUTTER_DASHBOARD\TEST
     widget_test.dart
     
 No subfolders exist 
@@ -111,7 +111,7 @@ No subfolders exist
 
 Folder PATH listing for volume New Volume
 Volume serial number is 000000CA 1C9D:76F5
-D:\MY_EXPERIENCE\CAR_HELTH\CAREPULSE_FLUTTER_DASHBOARD\DOCS\RELEASE_2
+D:\MY_EXPERIENCE\CAR_HELTH\BinarWell_FLUTTER_DASHBOARD\DOCS\RELEASE_2
     r2_001_changelog.md
     r2_001_gate_decision.md
     r2_002_gate_decision.md

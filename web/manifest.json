@@ -1,6 +1,6 @@
 {
-    "name": "carepulse_flutter_dashboard",
-    "short_name": "carepulse_flutter_dashboard",
+    "name": "BinarWell_flutter_dashboard",
+    "short_name": "BinarWell_flutter_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

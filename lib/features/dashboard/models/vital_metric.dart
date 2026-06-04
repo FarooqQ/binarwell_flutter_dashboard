@@ -11,3 +11,4 @@ class VitalMetric {
   final String value;
   final IconData icon;
 }
+

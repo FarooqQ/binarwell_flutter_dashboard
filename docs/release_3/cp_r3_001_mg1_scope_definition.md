@@ -2,7 +2,7 @@
 
 ## Project
 
-CarePulse Flutter Dashboard
+BinarWell Flutter Dashboard
 
 ## Target Version
 
@@ -16,7 +16,7 @@ Release 3 — Wellness Goals Expansion
 
 ## Purpose
 
-The purpose of Release 3 is to expand CarePulse Flutter Dashboard by adding a dedicated Wellness Goals page.
+The purpose of Release 3 is to expand BinarWell Flutter Dashboard by adding a dedicated Wellness Goals page.
 
 This page should help users understand their personal wellness targets, active goals, progress level, completion rate, and weekly wellness direction.
 
@@ -104,7 +104,7 @@ Release 3 does not include:
 
 ## Implementation Direction
 
-The implementation should follow the existing CarePulse structure.
+The implementation should follow the existing BinarWell structure.
 
 The page should be added as a clean extension, not as a rewrite of the existing dashboard.
 

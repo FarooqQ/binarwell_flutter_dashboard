@@ -2,7 +2,7 @@
 
 ## Scope
 
-Prepared the CarePulse Flutter Dashboard project for optional public release.
+Prepared the BinarWell Flutter Dashboard project for optional public release.
 
 ## Completed Work
 
@@ -15,7 +15,7 @@ Prepared the CarePulse Flutter Dashboard project for optional public release.
 
 ## Project Identity
 
-CarePulse Flutter Dashboard is an inspired wellness dashboard UI practice project.
+BinarWell Flutter Dashboard is an inspired wellness dashboard UI practice project.
 
 It does not include:
 - real medical backend

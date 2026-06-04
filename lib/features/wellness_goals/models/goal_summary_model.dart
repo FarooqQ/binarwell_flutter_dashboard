@@ -17,3 +17,4 @@ class GoalSummaryModel {
   final double? progressValue;
   final String? highlightText;
 }
+

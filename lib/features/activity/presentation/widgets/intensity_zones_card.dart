@@ -278,3 +278,4 @@ class _IntensityDonutPainter extends CustomPainter {
     return oldDelegate.zones != zones;
   }
 }
+

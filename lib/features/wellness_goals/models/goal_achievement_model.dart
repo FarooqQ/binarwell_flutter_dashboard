@@ -13,3 +13,4 @@ class GoalAchievementModel {
   final String iconKey;
   final String badgeLabel;
 }
+

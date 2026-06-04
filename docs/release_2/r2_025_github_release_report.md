@@ -1,8 +1,8 @@
-# R2-025 — GitHub Release v1.1.0 Report
+# R2-025 ï¿½ GitHub Release v1.1.0 Report
 
 ## Gate
 
-R2-025 — GitHub Release v1.1.0
+R2-025 ï¿½ GitHub Release v1.1.0
 
 ## Status
 
@@ -10,11 +10,11 @@ PASSED
 
 ## Purpose
 
-This gate publishes CarePulse Flutter Dashboard v1.1.0 as a GitHub Release.
+This gate publishes BinarWell Flutter Dashboard v1.1.0 as a GitHub Release.
 
 ## Release Title
 
-CarePulse Flutter Dashboard v1.1.0
+BinarWell Flutter Dashboard v1.1.0
 
 ## Release Tag
 
@@ -22,7 +22,7 @@ v1.1.0
 
 ## Release Theme
 
-Release 2 — Activity-First Multi-Page Expansion
+Release 2 ï¿½ Activity-First Multi-Page Expansion
 
 ## Completed Work
 
@@ -48,5 +48,5 @@ v1.1.0 is published as a separate Release 2 milestone.
 
 ## Next Gate
 
-R2-026 — Final Public Verification
+R2-026 ï¿½ Final Public Verification
 

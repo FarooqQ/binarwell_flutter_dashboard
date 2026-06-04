@@ -128,3 +128,4 @@ class _SummaryIconBadge extends StatelessWidget {
     }
   }
 }
+

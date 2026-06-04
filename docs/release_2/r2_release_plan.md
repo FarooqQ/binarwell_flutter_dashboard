@@ -1,8 +1,8 @@
-# CarePulse Flutter Dashboard v1.1.0 Release Plan
+# BinarWell Flutter Dashboard v1.1.0 Release Plan
 
 ## Release Name
 
-Release 2 — Activity-First Multi-Page Expansion
+Release 2 ï¿½ Activity-First Multi-Page Expansion
 
 ## Version
 
@@ -23,36 +23,36 @@ Each gate must follow this structure:
 
 ## Final Gate Order
 
-R2-001 — Release 2 Foundation & Visual Contract  
-R2-002 — Navigation Model & Page Identity  
-R2-003 — Sidebar Interaction & Active State  
-R2-004 — DashboardShell Page Switching  
-R2-005 — Placeholder Pages for Future Expansion  
-R2-006 — Activity Feature Architecture  
-R2-007 — Activity Models & Mock Data  
-R2-008 — Activity Page Layout Foundation  
-R2-009 — Activity Time Filter  
-R2-010 — Today’s Movement Hero Card  
-R2-011 — Activity Goals Card  
-R2-012 — Hourly Movement Chart Card  
-R2-013 — Today’s Activity Sessions Card  
-R2-014 — Intensity Zones Card  
-R2-015 — Activity Insights Card  
-R2-016 — Visual Consistency Review  
-R2-017 — Responsive Review  
-R2-018 — Tests and Validation  
-R2-019 — Release 2 Documentation Package  
-R2-020 — README and Screenshots Update  
-R2-021 — Release Baseline Protection & Version Delta Documentation  
-R2-022 — Final Release Review  
-R2-023 — Git Commit  
-R2-024 — Merge, Tag, and Push  
-R2-025 — GitHub Release v1.1.0  
-R2-026 — Final Public Verification  
+R2-001 ï¿½ Release 2 Foundation & Visual Contract  
+R2-002 ï¿½ Navigation Model & Page Identity  
+R2-003 ï¿½ Sidebar Interaction & Active State  
+R2-004 ï¿½ DashboardShell Page Switching  
+R2-005 ï¿½ Placeholder Pages for Future Expansion  
+R2-006 ï¿½ Activity Feature Architecture  
+R2-007 ï¿½ Activity Models & Mock Data  
+R2-008 ï¿½ Activity Page Layout Foundation  
+R2-009 ï¿½ Activity Time Filter  
+R2-010 ï¿½ Todayï¿½s Movement Hero Card  
+R2-011 ï¿½ Activity Goals Card  
+R2-012 ï¿½ Hourly Movement Chart Card  
+R2-013 ï¿½ Todayï¿½s Activity Sessions Card  
+R2-014 ï¿½ Intensity Zones Card  
+R2-015 ï¿½ Activity Insights Card  
+R2-016 ï¿½ Visual Consistency Review  
+R2-017 ï¿½ Responsive Review  
+R2-018 ï¿½ Tests and Validation  
+R2-019 ï¿½ Release 2 Documentation Package  
+R2-020 ï¿½ README and Screenshots Update  
+R2-021 ï¿½ Release Baseline Protection & Version Delta Documentation  
+R2-022 ï¿½ Final Release Review  
+R2-023 ï¿½ Git Commit  
+R2-024 ï¿½ Merge, Tag, and Push  
+R2-025 ï¿½ GitHub Release v1.1.0  
+R2-026 ï¿½ Final Public Verification  
 
 ## Current Gate
 
-R2-001 — Release 2 Foundation & Visual Contract
+R2-001 ï¿½ Release 2 Foundation & Visual Contract
 
 ## Rule
 

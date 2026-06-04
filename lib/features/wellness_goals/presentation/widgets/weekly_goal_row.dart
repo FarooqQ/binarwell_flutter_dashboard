@@ -164,3 +164,4 @@ class _GoalIconBadge extends StatelessWidget {
     }
   }
 }
+

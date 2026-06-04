@@ -2,7 +2,7 @@
 
 ## Gate
 
-CP-PORT-001-MG3 — LinkedIn Post
+CP-PORT-001-MG3 ï¿½ LinkedIn Post
 
 ## Status
 
@@ -10,7 +10,7 @@ PASSED
 
 ## Completed Work
 
-- Created public LinkedIn post for CarePulse Flutter Dashboard v1.1.0
+- Created public LinkedIn post for BinarWell Flutter Dashboard v1.1.0
 - Created short LinkedIn post version
 - Included public repository link
 - Included public release v1.1.0 link
@@ -34,5 +34,5 @@ CP-PORT-001-MG3 LinkedIn Post: PASSED
 
 ## Next Gate
 
-CP-PORT-001-MG4 — Freelance Service Description
+CP-PORT-001-MG4 ï¿½ Freelance Service Description
 

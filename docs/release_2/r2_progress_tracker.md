@@ -1,8 +1,8 @@
 # Release 2 Progress Tracker
 
-## CarePulse Flutter Dashboard v1.1.0
+## BinarWell Flutter Dashboard v1.1.0
 
-Release 2 — Activity-First Multi-Page Expansion
+Release 2 ï¿½ Activity-First Multi-Page Expansion
 
 | Gate | Name | Status |
 |---|---|---|
@@ -41,11 +41,11 @@ Release 2 implementation, visual review, responsive review, tests, documentation
 
 The next gate is:
 
-R2-020 — README and Screenshots Update
+R2-020 ï¿½ README and Screenshots Update
 
 ## Release Notes
 
-Release 2 expands the original CarePulse Flutter Dashboard from a single Overview page into an Activity-first multi-page dashboard experience.
+Release 2 expands the original BinarWell Flutter Dashboard from a single Overview page into an Activity-first multi-page dashboard experience.
 
 The original v1.0.0 baseline remains protected as the first public release.
 

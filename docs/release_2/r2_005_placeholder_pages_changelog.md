@@ -2,7 +2,7 @@
 
 ## Gate
 
-R2-005 — Placeholder Pages for Future Expansion
+R2-005 ï¿½ Placeholder Pages for Future Expansion
 
 ## Added
 
@@ -20,7 +20,7 @@ R2-005 — Placeholder Pages for Future Expansion
 
 ## Purpose
 
-This gate prepares CarePulse Flutter Dashboard v1.1.0 for future expansion by separating future page placeholders into their own feature folders.
+This gate prepares BinarWell Flutter Dashboard v1.1.0 for future expansion by separating future page placeholders into their own feature folders.
 
 ## Notes
 

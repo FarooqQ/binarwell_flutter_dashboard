@@ -2,7 +2,7 @@
 
 ## Gate
 
-R2-002 — Navigation Model & Page Identity
+R2-002 ï¿½ Navigation Model & Page Identity
 
 ## Status
 
@@ -11,7 +11,7 @@ PASSED
 ## Completed Work
 
 - Created navigation folder
-- Created CarePulsePage enum
+- Created BinarWellPage enum
 - Defined official page identities for Release 2
 - Updated Release 2 progress tracker
 
@@ -27,5 +27,5 @@ R2-002 Navigation Model & Page Identity: PASSED
 
 ## Next Gate
 
-R2-003 — Sidebar Interaction & Active State
+R2-003 ï¿½ Sidebar Interaction & Active State
 

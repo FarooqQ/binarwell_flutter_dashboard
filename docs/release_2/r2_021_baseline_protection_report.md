@@ -1,8 +1,8 @@
-# R2-021 — Release Baseline Protection Report
+# R2-021 ï¿½ Release Baseline Protection Report
 
 ## Gate
 
-R2-021 — Release Baseline Protection & Version Delta Documentation
+R2-021 ï¿½ Release Baseline Protection & Version Delta Documentation
 
 ## Purpose
 
@@ -10,13 +10,13 @@ This gate documents the protection of the original public release baseline befor
 
 ## Protected Baseline
 
-CarePulse Flutter Dashboard v1.0.0 is treated as the first public baseline release.
+BinarWell Flutter Dashboard v1.0.0 is treated as the first public baseline release.
 
 This baseline should remain unchanged.
 
 ## Release 2 Target
 
-CarePulse Flutter Dashboard v1.1.0
+BinarWell Flutter Dashboard v1.1.0
 
 Release 2 theme:
 
@@ -34,7 +34,7 @@ The following rules apply:
 
 ## Release 1 Position
 
-Release 1 represents the original CarePulse Flutter Dashboard public release.
+Release 1 represents the original BinarWell Flutter Dashboard public release.
 
 Its main focus was the polished wellness overview dashboard.
 

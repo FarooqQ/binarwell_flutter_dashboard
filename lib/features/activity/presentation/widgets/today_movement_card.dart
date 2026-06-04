@@ -311,3 +311,4 @@ class _MovementStatTile extends StatelessWidget {
     );
   }
 }
+

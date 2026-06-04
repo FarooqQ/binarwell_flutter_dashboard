@@ -6,7 +6,7 @@ Wellness Goals Reference Lock
 
 ## Project
 
-CarePulse Flutter Dashboard
+BinarWell Flutter Dashboard
 
 ## Target Version
 
@@ -22,7 +22,7 @@ Release 3 — Wellness Goals Expansion
 
 The approved visual reference for the Wellness Goals page is the selected Wellness Goals design direction prepared before implementation.
 
-The page should feel connected to the existing CarePulse dashboard system, especially the main Overview page and the Activity page, while still having its own clear identity.
+The page should feel connected to the existing BinarWell dashboard system, especially the main Overview page and the Activity page, while still having its own clear identity.
 
 ---
 

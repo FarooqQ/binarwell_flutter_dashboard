@@ -248,3 +248,4 @@ class _InsightIcon extends StatelessWidget {
     );
   }
 }
+

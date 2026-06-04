@@ -1,8 +1,8 @@
-# R2-026 — Final Public Verification Report
+# R2-026 ï¿½ Final Public Verification Report
 
 ## Gate
 
-R2-026 — Final Public Verification
+R2-026 ï¿½ Final Public Verification
 
 ## Status
 
@@ -10,17 +10,17 @@ PASSED
 
 ## Purpose
 
-This gate performs the final public verification after publishing CarePulse Flutter Dashboard v1.1.0 on GitHub.
+This gate performs the final public verification after publishing BinarWell Flutter Dashboard v1.1.0 on GitHub.
 
 The goal is to confirm that Release 2 is publicly visible, correctly documented, and safely separated from the v1.0.0 baseline release.
 
 ## Release Target
 
-CarePulse Flutter Dashboard v1.1.0
+BinarWell Flutter Dashboard v1.1.0
 
 ## Release Theme
 
-Release 2 — Activity-First Multi-Page Expansion
+Release 2 ï¿½ Activity-First Multi-Page Expansion
 
 ## Verified Public Items
 
@@ -47,7 +47,7 @@ v1.1.0 is published as a separate Release 2 milestone and does not replace v1.0.
 
 ## Final Release Summary
 
-Release 2 successfully expands the original CarePulse Flutter Dashboard from a single Overview dashboard into an Activity-first multi-page dashboard experience.
+Release 2 successfully expands the original BinarWell Flutter Dashboard from a single Overview dashboard into an Activity-first multi-page dashboard experience.
 
 The release includes:
 
@@ -75,7 +75,7 @@ The following are not included in this release:
 
 ## Final Decision
 
-CarePulse Flutter Dashboard Release 2 is publicly verified.
+BinarWell Flutter Dashboard Release 2 is publicly verified.
 
 Release 2 status:
 

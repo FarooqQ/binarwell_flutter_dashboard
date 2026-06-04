@@ -6,7 +6,7 @@
 
 Status: PASSED
 
-CarePulse Flutter Dashboard v1.0.0 was successfully published as an official GitHub release.
+BinarWell Flutter Dashboard v1.0.0 was successfully published as an official GitHub release.
 
 ### C024-MG2 — LinkedIn Portfolio Post
 
@@ -20,7 +20,7 @@ C024 Public Presentation: COMPLETED
 
 ## Project Public Status
 
-CarePulse Flutter Dashboard is now:
+BinarWell Flutter Dashboard is now:
 
 - Published on GitHub
 - Released as v1.0.0

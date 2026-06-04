@@ -1,4 +1,4 @@
-enum CarePulsePage {
+enum BinarWellPage {
   overview,
   activity,
   wellnessGoals,
@@ -7,3 +7,4 @@ enum CarePulsePage {
   reports,
   settings,
 }
+

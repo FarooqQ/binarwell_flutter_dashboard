@@ -2,7 +2,7 @@
 
 ## Project
 
-CarePulse Flutter Dashboard v1.2.0
+BinarWell Flutter Dashboard v1.2.0
 
 ## Release
 
@@ -24,7 +24,7 @@ Wellness Goals Reference 2
 
 ## Purpose
 
-The purpose of this page is to add a dedicated Wellness Goals page to CarePulse Flutter Dashboard while keeping the page visually consistent with the existing Dashboard and Activity pages.
+The purpose of this page is to add a dedicated Wellness Goals page to BinarWell Flutter Dashboard while keeping the page visually consistent with the existing Dashboard and Activity pages.
 
 The page must be clearly different from the Activity page. It should focus on goal tracking, goal planning, weekly progress, achievements, and wellness insights.
 
@@ -49,7 +49,7 @@ The Wellness Goals page must include:
 
 ## Design Direction
 
-The page should use the same general CarePulse identity, including clean cards, soft spacing, green/teal wellness colors, readable typography, and dashboard-style layout.
+The page should use the same general BinarWell identity, including clean cards, soft spacing, green/teal wellness colors, readable typography, and dashboard-style layout.
 
 However, the page must not look like a duplicate of the Activity page.
 
@@ -59,7 +59,7 @@ Release 3 will be prepared for publication on the personal GitHub account after 
 
 This release must preserve the public identity of the previous two versions:
 
-- CarePulse Flutter Dashboard v1.0.0
-- CarePulse Flutter Dashboard v1.1.0
+- BinarWell Flutter Dashboard v1.0.0
+- BinarWell Flutter Dashboard v1.1.0
 
 Release 3 must clearly show what was added after the previous releases without hiding or overwriting their documented value.

@@ -10,7 +10,7 @@ PASSED
 
 ## Decision Reason
 
-C022 is accepted because the CarePulse Flutter Dashboard project completed its final review successfully.
+C022 is accepted because the BinarWell Flutter Dashboard project completed its final review successfully.
 
 The project is accepted as:
 
@@ -85,7 +85,7 @@ C021: PASSED — GitHub Preparation
 C022: PASSED — Final Review
 
 Final Decision
-CarePulse Flutter Dashboard: COMPLETED
+BinarWell Flutter Dashboard: COMPLETED
 C022 Gate Status: PASSED
 Project Status: COMPLETED
 Next Optional Steps

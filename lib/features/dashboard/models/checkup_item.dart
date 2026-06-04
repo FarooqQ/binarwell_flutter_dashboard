@@ -4,3 +4,4 @@ class CheckupItem {
   final String title;
   final String status;
 }
+

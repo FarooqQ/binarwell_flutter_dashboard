@@ -1,8 +1,8 @@
-﻿# CarePulse Flutter Dashboard v1.2.0
+﻿# BinarWell Flutter Dashboard v1.2.0
 
 ## Release 3 — Wellness Goals Expansion
 
-CarePulse Flutter Dashboard v1.2.0 expands the project with a dedicated Wellness Goals page.
+BinarWell Flutter Dashboard v1.2.0 expands the project with a dedicated Wellness Goals page.
 
 The new page focuses on goal tracking, habit consistency, weekly planning, category progress, achievements, and wellness insights.
 

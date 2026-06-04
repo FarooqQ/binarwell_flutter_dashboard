@@ -4,11 +4,11 @@
 C006 — Build Wellness Sidebar
 
 ## Scope
-Replace the temporary sidebar placeholder with a real CarePulse wellness sidebar.
+Replace the temporary sidebar placeholder with a real BinarWell wellness sidebar.
 
 ## Completed Actions
 - Created WellnessSidebar.
-- Added CarePulse logo text.
+- Added BinarWell logo text.
 - Added sidebar navigation items.
 - Added user profile card.
 - Replaced placeholder sidebar inside DashboardShell.

@@ -1,8 +1,8 @@
-# R2-023 — Git Commit Report
+# R2-023 ï¿½ Git Commit Report
 
 ## Gate
 
-R2-023 — Git Commit
+R2-023 ï¿½ Git Commit
 
 ## Purpose
 
@@ -10,7 +10,7 @@ This gate commits the completed Release 2 work locally before merge, tag, and pu
 
 ## Release Target
 
-CarePulse Flutter Dashboard v1.1.0
+BinarWell Flutter Dashboard v1.1.0
 
 ## Release Theme
 
@@ -46,5 +46,5 @@ Release 2 changes are committed locally and ready for the next gate.
 
 ## Next Gate
 
-R2-024 — Merge, Tag, and Push
+R2-024 ï¿½ Merge, Tag, and Push
 

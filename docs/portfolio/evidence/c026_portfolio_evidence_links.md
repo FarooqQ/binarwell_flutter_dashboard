@@ -2,15 +2,15 @@
 
 ## Project Name
 
-CarePulse Flutter Dashboard v1.0.0
+BinarWell Flutter Dashboard v1.0.0
 
 ## GitHub Repository
 
-https://github.com/FarooqQ/carepulse_flutter_dashboard
+https://github.com/FarooqQ/BinarWell_flutter_dashboard
 
 ## GitHub Release
 
-https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.0.0
+https://github.com/FarooqQ/BinarWell_flutter_dashboard/releases/tag/v1.0.0
 
 ## GitHub Profile
 

@@ -27,3 +27,4 @@ class GoalCategoryModel {
     return '$completedGoals/$totalGoals goals';
   }
 }
+

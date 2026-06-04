@@ -5,8 +5,8 @@ C004 — Build Basic Dashboard Page
 
 ## Completed Actions
 - Created dashboard page folder.
-- Created CarePulseDashboardPage.
-- Connected CarePulseDashboardPage to CarePulseApp.
+- Created BinarWellDashboardPage.
+- Connected BinarWellDashboardPage to BinarWellApp.
 - Updated widget test to match the new dashboard page.
 
 ## Validation

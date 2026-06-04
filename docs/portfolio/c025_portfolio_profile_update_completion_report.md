@@ -6,7 +6,7 @@
 
 Status: PASSED
 
-The CarePulse Flutter Dashboard repository was pinned on the GitHub profile.
+The BinarWell Flutter Dashboard repository was pinned on the GitHub profile.
 
 ### C025-MG2 — GitHub Profile README
 
@@ -29,10 +29,10 @@ A professional CV and portfolio description was prepared.
 ## Public Portfolio Links
 
 Repository:
-https://github.com/FarooqQ/carepulse_flutter_dashboard
+https://github.com/FarooqQ/BinarWell_flutter_dashboard
 
 Release:
-https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.0.0
+https://github.com/FarooqQ/BinarWell_flutter_dashboard/releases/tag/v1.0.0
 
 ## Final Status
 
@@ -40,7 +40,7 @@ C025 Portfolio Profile Update: COMPLETED
 
 ## Project Public Position
 
-CarePulse Flutter Dashboard is now:
+BinarWell Flutter Dashboard is now:
 
 - Published on GitHub
 - Released as v1.0.0

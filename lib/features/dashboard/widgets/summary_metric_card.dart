@@ -82,3 +82,4 @@ class _MetricIcon extends StatelessWidget {
     );
   }
 }
+

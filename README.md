@@ -1,6 +1,6 @@
-﻿# CarePulse Flutter Dashboard
+﻿# BinarWell Flutter Dashboard
 
-CarePulse Flutter Dashboard is an educational Flutter UI practice project that demonstrates how to build a clean, responsive, and visually polished wellness dashboard using Flutter and Dart.
+BinarWell Flutter Dashboard is an educational Flutter UI practice project that demonstrates how to build a clean, responsive, and visually polished wellness dashboard using Flutter and Dart.
 
 This project is designed as an inspired wellness dashboard concept. It uses mock data only and does not connect to any backend, database, API, or real medical service.
 
@@ -61,7 +61,7 @@ The dashboard includes a structured shell with:
 
 The sidebar includes:
 
-- CarePulse logo area
+- BinarWell logo area
 - Navigation menu
 - User profile card
 
@@ -103,7 +103,7 @@ The dashboard currently includes:
 Mock dashboard data is separated into a dedicated data layer:
 
 ```text
-lib/features/dashboard/data/mock_carepulse_data.dart
+lib/features/dashboard/data/mock_BinarWell_data.dart
 ```
 
 This keeps the dashboard UI cleaner and prevents hardcoded mock values from being scattered across widgets.
@@ -183,7 +183,7 @@ lib/
   features/
     dashboard/
       data/
-        mock_carepulse_data.dart
+        mock_BinarWell_data.dart
 
       layout/
         dashboard_shell.dart
@@ -296,7 +296,7 @@ Open the project folder in VS Code.
 Or use:
 
 ```powershell
-cd carepulse_flutter_dashboard
+cd BinarWell_flutter_dashboard
 code .
 ```
 
@@ -445,7 +445,7 @@ Developed as a Flutter dashboard UI practice project.
 Project name:
 
 ```text
-CarePulse Flutter Dashboard
+BinarWell Flutter Dashboard
 ```
 
 
@@ -455,26 +455,26 @@ CarePulse Flutter Dashboard
 
 ### Dashboard Overview
 
-![CarePulse Dashboard Overview](docs/screenshots/1.PNG)
+![BinarWell Dashboard Overview](docs/screenshots/1.PNG)
 
 ### Wellness Cards
 
-![CarePulse Wellness Cards](docs/screenshots/2.PNG)
+![BinarWell Wellness Cards](docs/screenshots/2.PNG)
 
 ### Responsive Dashboard Layout
 
-![CarePulse Responsive Layout](docs/screenshots/3.PNG)
+![BinarWell Responsive Layout](docs/screenshots/3.PNG)
 
 ### Final UI Polish
 
-![CarePulse Final UI Polish](docs/screenshots/4.PNG)
+![BinarWell Final UI Polish](docs/screenshots/4.PNG)
 
 
 ---
 
 ## Release 2 — Activity-First Multi-Page Expansion
 
-Release 2 expands the CarePulse Flutter Dashboard from a single Overview dashboard into a multi-page wellness dashboard experience.
+Release 2 expands the BinarWell Flutter Dashboard from a single Overview dashboard into a multi-page wellness dashboard experience.
 
 The main addition in this release is a dedicated Activity page with its own navigation identity, layout, visual cards, responsive behavior, and widget test coverage.
 
@@ -549,11 +549,11 @@ It does not include:
 
 ---
 
-## CarePulse Flutter Dashboard v1.2.0
+## BinarWell Flutter Dashboard v1.2.0
 
 ### Release 3 — Wellness Goals Expansion
 
-Release 3 adds a dedicated Wellness Goals page to CarePulse Flutter Dashboard.
+Release 3 adds a dedicated Wellness Goals page to BinarWell Flutter Dashboard.
 
 The new page focuses on daily goal tracking, weekly planning, category progress, recent achievements, and wellness insights.
 

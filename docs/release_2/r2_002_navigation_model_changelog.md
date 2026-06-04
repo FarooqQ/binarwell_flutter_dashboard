@@ -2,16 +2,16 @@
 
 ## Gate
 
-R2-002 — Navigation Model & Page Identity
+R2-002 ï¿½ Navigation Model & Page Identity
 
 ## Added
 
-- Created CarePulsePage enum
+- Created BinarWellPage enum
 - Added official page identity model for the dashboard system
 
 ## Purpose
 
-This gate introduces a formal page identity model for CarePulse Flutter Dashboard v1.1.0.
+This gate introduces a formal page identity model for BinarWell Flutter Dashboard v1.1.0.
 
 The project should no longer depend on random page names or string-based navigation logic.
 

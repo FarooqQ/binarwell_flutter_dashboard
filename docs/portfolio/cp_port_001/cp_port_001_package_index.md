@@ -1,8 +1,8 @@
-# CP-PORT-001 — CarePulse Portfolio and Client Presentation Package
+# CP-PORT-001 ï¿½BinarWelle Portfolio and Client Presentation Package
 
 ## Purpose
 
-This package prepares professional presentation materials for the CarePulse Flutter Dashboard v1.1.0 project.
+This package prepares professional presentation materials for the BinarWell Flutter Dashboard v1.1.0 project.
 
 The goal is to make the project useful for:
 
@@ -15,11 +15,11 @@ The goal is to make the project useful for:
 
 ## Featured Project
 
-CarePulse Flutter Dashboard v1.1.0
+BinarWell Flutter Dashboard v1.1.0
 
 ## Project Summary
 
-CarePulse Flutter Dashboard is an inspired Flutter wellness dashboard practice project built with Flutter and Dart.
+BinarWell Flutter Dashboard is an inspired Flutter wellness dashboard practice project built with Flutter and Dart.
 
 Version v1.1.0 expands the original single-page wellness dashboard into an Activity-first multi-page dashboard experience.
 
@@ -49,5 +49,5 @@ This package will include:
 
 This package should not include private client data, passwords, API keys, personal documents, confidential business information, or real medical data.
 
-The CarePulse project uses mock data only.
+The BinarWell project uses mock data only.
 

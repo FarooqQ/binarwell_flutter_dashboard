@@ -7,7 +7,7 @@ C021 — GitHub Preparation
 PASSED
 
 ## Decision Reason
-C021 is accepted because the CarePulse Flutter Dashboard project was prepared locally for safe GitHub publication.
+C021 is accepted because the BinarWell Flutter Dashboard project was prepared locally for safe GitHub publication.
 
 ## Quality Checks
 - flutter analyze: No issues found!

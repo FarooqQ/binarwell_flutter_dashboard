@@ -2,7 +2,7 @@
 
 ## Project
 
-CarePulse Flutter Dashboard
+BinarWell Flutter Dashboard
 
 ## Target Version
 
@@ -63,7 +63,7 @@ These will be handled in later micro-gates.
 
 The Wellness Goals page must:
 
-- Stay visually consistent with CarePulse
+- Stay visually consistent with BinarWell
 - Remain different from the Activity page
 - Use clear KPI cards with different meanings
 - Reduce unnecessary small text density

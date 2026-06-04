@@ -33,3 +33,4 @@ class BodyBalanceItem {
   final String label;
   final int percent;
 }
+

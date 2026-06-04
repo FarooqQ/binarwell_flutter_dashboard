@@ -82,7 +82,7 @@ class _SidebarLogo extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'CarePulse',
+                'BinarWell',
                 style: AppTextStyles.title,
                 maxLines: 1,
                 overflow: TextOverflow.ellipsis,

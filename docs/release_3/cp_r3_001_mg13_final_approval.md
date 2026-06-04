@@ -6,7 +6,7 @@ CP-R3-001-MG13 — Final Approval and Release 3 Closure
 
 ## Release
 
-CarePulse Flutter Dashboard v1.2.0
+BinarWell Flutter Dashboard v1.2.0
 
 ## Release Name
 

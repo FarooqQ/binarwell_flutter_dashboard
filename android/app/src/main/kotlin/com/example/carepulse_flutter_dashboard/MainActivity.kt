@@ -1,4 +1,4 @@
-package com.example.carepulse_flutter_dashboard
+package com.example.BinarWell_flutter_dashboard
 
 import io.flutter.embedding.android.FlutterActivity
 

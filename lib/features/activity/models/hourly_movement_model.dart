@@ -4,3 +4,4 @@ class HourlyMovementModel {
   final String hourLabel;
   final int steps;
 }
+

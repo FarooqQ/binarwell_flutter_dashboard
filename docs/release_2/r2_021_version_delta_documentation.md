@@ -1,8 +1,8 @@
-# R2-021 — Version Delta Documentation
+# R2-021 ï¿½ Version Delta Documentation
 
 ## Gate
 
-R2-021 — Release Baseline Protection & Version Delta Documentation
+R2-021 ï¿½ Release Baseline Protection & Version Delta Documentation
 
 ## Compared Versions
 
@@ -13,7 +13,7 @@ R2-021 — Release Baseline Protection & Version Delta Documentation
 
 ## What v1.0.0 Represents
 
-Version v1.0.0 represents the first public version of the CarePulse Flutter Dashboard.
+Version v1.0.0 represents the first public version of the BinarWell Flutter Dashboard.
 
 It focuses on:
 

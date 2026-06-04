@@ -8,24 +8,24 @@ import '../../nutrition/presentation/nutrition_page.dart';
 import '../../reports/presentation/reports_page.dart';
 import '../../settings/presentation/settings_page.dart';
 import '../../wellness_goals/presentation/wellness_goals_page.dart';
-import '../navigation/carepulse_page.dart';
+import '../navigation/binarwell_page.dart';
 import 'dashboard_content_grid.dart';
 import 'dashboard_header.dart';
 
 class DashboardMainArea extends StatelessWidget {
   const DashboardMainArea({
     super.key,
-    this.selectedPage = CarePulsePage.overview,
+    this.selectedPage = BinarWellPage.overview,
   });
 
-  final CarePulsePage selectedPage;
+  final BinarWellPage selectedPage;
 
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(
       builder: (context, constraints) {
         final isCompact = constraints.maxWidth < 760;
-        final isWellnessGoals = selectedPage == CarePulsePage.wellnessGoals;
+        final isWellnessGoals = selectedPage == BinarWellPage.wellnessGoals;
 
         final pageBackground = const Color(0xFFF6FAF9);
 
@@ -50,7 +50,7 @@ class DashboardMainArea extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              if (selectedPage == CarePulsePage.overview) ...[
+              if (selectedPage == BinarWellPage.overview) ...[
                 const DashboardHeader(),
                 SizedBox(height: headerGap),
               ],
@@ -68,31 +68,32 @@ class DashboardMainArea extends StatelessWidget {
 class _DashboardPageContent extends StatelessWidget {
   const _DashboardPageContent({required this.selectedPage});
 
-  final CarePulsePage selectedPage;
+  final BinarWellPage selectedPage;
 
   @override
   Widget build(BuildContext context) {
     switch (selectedPage) {
-      case CarePulsePage.overview:
+      case BinarWellPage.overview:
         return const DashboardContentGrid();
 
-      case CarePulsePage.activity:
+      case BinarWellPage.activity:
         return const ActivityPage();
 
-      case CarePulsePage.wellnessGoals:
+      case BinarWellPage.wellnessGoals:
         return const WellnessGoalsPage();
 
-      case CarePulsePage.checkups:
+      case BinarWellPage.checkups:
         return const CheckupsPage();
 
-      case CarePulsePage.nutrition:
+      case BinarWellPage.nutrition:
         return const NutritionPage();
 
-      case CarePulsePage.reports:
+      case BinarWellPage.reports:
         return const ReportsPage();
 
-      case CarePulsePage.settings:
+      case BinarWellPage.settings:
         return const SettingsPage();
     }
   }
 }
+

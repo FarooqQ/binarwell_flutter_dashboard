@@ -20,7 +20,7 @@ The main area displays:
 - Today label
 - Notification icon placeholder
 - User avatar placeholder
-- CarePulse Dashboard placeholder below the header
+- BinarWell Dashboard placeholder below the header
 
 ## Scope Control
 No dashboard cards, charts, mock data, or responsive polishing were added in this stage.

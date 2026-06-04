@@ -1,8 +1,8 @@
-﻿# CarePulse Flutter Dashboard v1.1.0
+﻿# BinarWell Flutter Dashboard v1.1.0
 
 ## Release 2 — Activity-First Multi-Page Expansion
 
-CarePulse Flutter Dashboard v1.1.0 expands the original v1.0.0 dashboard from a single Overview page into a multi-page wellness dashboard experience.
+BinarWell Flutter Dashboard v1.1.0 expands the original v1.0.0 dashboard from a single Overview page into a multi-page wellness dashboard experience.
 
 The main addition in this release is a dedicated Activity page with its own navigation identity, visual layout, mock data, responsive behavior, and widget test coverage.
 

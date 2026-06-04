@@ -7,7 +7,7 @@ C020 — README
 PASSED
 
 ## Decision Reason
-C020 is accepted because a professional README.md file was created for the CarePulse Flutter Dashboard project.
+C020 is accepted because a professional README.md file was created for the BinarWell Flutter Dashboard project.
 
 The README clearly explains:
 - Project name

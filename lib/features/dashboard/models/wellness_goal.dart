@@ -13,3 +13,4 @@ class WellnessGoal {
   final String status;
   final IconData icon;
 }
+

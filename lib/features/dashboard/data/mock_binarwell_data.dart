@@ -5,7 +5,7 @@ import '../models/checkup_item.dart';
 import '../models/vital_metric.dart';
 import '../models/wellness_goal.dart';
 
-abstract final class MockCarePulseData {
+abstract final class MockBinarWellData {
   static const ActivitySummary activitySummary = ActivitySummary(
     scorePercent: 82,
     energyLevel: 'Good',
@@ -79,3 +79,4 @@ abstract final class MockCarePulseData {
     VitalMetric(label: 'Stress Index', value: 'Low', icon: Icons.spa_rounded),
   ];
 }
+

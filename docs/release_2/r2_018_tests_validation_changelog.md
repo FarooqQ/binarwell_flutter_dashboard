@@ -2,7 +2,7 @@
 
 ## Gate
 
-R2-018 — Tests and Validation
+R2-018 ï¿½ Tests and Validation
 
 ## Updated
 
@@ -13,7 +13,7 @@ R2-018 — Tests and Validation
 
 ## Tested Overview Components
 
-- CarePulse branding
+- BinarWell branding
 - Overview sidebar item
 - Wellness Overview header
 - Wellness Score

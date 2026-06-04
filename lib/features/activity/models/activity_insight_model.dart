@@ -11,3 +11,4 @@ class ActivityInsightModel {
   final String description;
   final String iconKey;
 }
+

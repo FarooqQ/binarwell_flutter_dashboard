@@ -1,8 +1,8 @@
-# CarePulse Flutter Dashboard v1.1.0 Scope
+# BinarWell Flutter Dashboard v1.1.0 Scope
 
 ## Release Name
 
-Release 2 — Activity-First Multi-Page Expansion
+Release 2 ï¿½ Activity-First Multi-Page Expansion
 
 ## Version
 
@@ -10,7 +10,7 @@ v1.1.0
 
 ## Main Goal
 
-The goal of Release 2 is to expand CarePulse Flutter Dashboard from a single-page wellness dashboard into a multi-page front-end dashboard system, starting with a dedicated Activity page.
+The goal of Release 2 is to expand BinarWell Flutter Dashboard from a single-page wellness dashboard into a multi-page front-end dashboard system, starting with a dedicated Activity page.
 
 ## Primary Page in This Release
 

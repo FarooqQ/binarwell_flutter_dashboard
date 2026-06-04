@@ -4,7 +4,7 @@
 C021 — GitHub Preparation
 
 ## Scope
-Prepare the CarePulse Flutter Dashboard project locally for safe GitHub publication.
+Prepare the BinarWell Flutter Dashboard project locally for safe GitHub publication.
 
 ## Completed Actions
 - Created docs/screenshots folder.

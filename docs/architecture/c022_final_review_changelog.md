@@ -4,7 +4,7 @@
 C022 — Final Review
 
 ## Scope
-Perform the final review before marking the CarePulse Flutter Dashboard project as completed.
+Perform the final review before marking the BinarWell Flutter Dashboard project as completed.
 
 ## Completed Actions
 - Created final review checklist.
@@ -42,4 +42,4 @@ No real medical logic was implemented.
 No GitHub push was executed.
 
 ## Notes
-C022 closes the staged CarePulse Dashboard implementation cycle from C001 to C022.
+C022 closes the staged BinarWell Dashboard implementation cycle from C001 to C022.

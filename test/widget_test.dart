@@ -1,13 +1,13 @@
-import 'package:carepulse_flutter_dashboard/app/carepulse_app.dart';
+import 'package:binarwell_flutter_dashboard/app/binarwell_app.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  testWidgets('CarePulse overview renders successfully', (
+  testWidgets('BinarWell overview renders successfully', (
     WidgetTester tester,
   ) async {
-    await tester.pumpWidget(const CarePulseApp());
+    await tester.pumpWidget(const BinarWellApp());
 
-    expect(find.text('CarePulse'), findsOneWidget);
+    expect(find.text('BinarWell'), findsOneWidget);
     expect(find.text('Overview'), findsOneWidget);
     expect(find.text('Wellness Overview'), findsOneWidget);
 
@@ -32,10 +32,10 @@ void main() {
     expect(find.text('Sleep Balance'), findsOneWidget);
   });
 
-  testWidgets('CarePulse activity page renders after sidebar selection', (
+  testWidgets('BinarWell activity page renders after sidebar selection', (
     WidgetTester tester,
   ) async {
-    await tester.pumpWidget(const CarePulseApp());
+    await tester.pumpWidget(const BinarWellApp());
 
     expect(find.text('Activity'), findsOneWidget);
 
@@ -74,3 +74,4 @@ void main() {
     expect(find.text('Goal Achievement'), findsOneWidget);
   });
 }
+

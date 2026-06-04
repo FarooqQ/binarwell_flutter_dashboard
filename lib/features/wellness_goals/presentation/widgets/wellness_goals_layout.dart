@@ -128,3 +128,4 @@ class _BottomInsightsRow extends StatelessWidget {
     );
   }
 }
+

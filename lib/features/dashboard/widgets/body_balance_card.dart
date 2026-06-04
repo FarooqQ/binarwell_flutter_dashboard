@@ -91,3 +91,4 @@ class _BodyBalanceProgressItem extends StatelessWidget {
     );
   }
 }
+

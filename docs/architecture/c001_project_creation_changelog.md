@@ -4,10 +4,10 @@
 C001 — Create Clean Flutter Project
 
 ## Project Name
-carepulse_flutter_dashboard
+BinarWell_flutter_dashboard
 
 ## Project Path
-D:\My Experience\car helth\carepulse_flutter_dashboard
+D:\My Experience\car helth\BinarWell_flutter_dashboard
 
 ## Completed Micro-Gates
 

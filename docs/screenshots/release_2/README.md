@@ -1,6 +1,6 @@
 ﻿# Release 2 Screenshots
 
-This folder contains public-facing screenshots for CarePulse Flutter Dashboard Release 2.
+This folder contains public-facing screenshots for BinarWell Flutter Dashboard Release 2.
 
 ## Screenshot Set
 
