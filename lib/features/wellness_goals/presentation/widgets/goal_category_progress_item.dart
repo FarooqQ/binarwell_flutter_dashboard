@@ -125,3 +125,4 @@ class _CategoryIconBadge extends StatelessWidget {
   }
 }
 
+

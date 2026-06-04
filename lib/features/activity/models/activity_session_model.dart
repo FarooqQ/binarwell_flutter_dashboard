@@ -16,3 +16,4 @@ class ActivitySessionModel {
   final String calories;
 }
 
+

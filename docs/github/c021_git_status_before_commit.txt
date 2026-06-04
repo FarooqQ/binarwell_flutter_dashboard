@@ -1,4 +1,4 @@
-﻿## No commits yet on master
+## No commits yet on master
 ?? .gitignore
 ?? .metadata
 ?? README.md
@@ -14,3 +14,4 @@
 ?? test/
 ?? web/
 ?? windows/
+

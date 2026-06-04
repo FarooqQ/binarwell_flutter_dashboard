@@ -1,4 +1,4 @@
-﻿# Release 3 Screenshots Index
+# Release 3 Screenshots Index
 
 ## Release
 
@@ -6,7 +6,7 @@ BinarWell Flutter Dashboard v1.2.0
 
 ## Release Name
 
-Release 3 — Wellness Goals Expansion
+Release 3 � Wellness Goals Expansion
 
 ## Screenshot Folder
 
@@ -50,3 +50,4 @@ Screenshot Checklist
  Wellness Insights are visible.
  No overflow warning is visible.
  No blank screen is visible.
+

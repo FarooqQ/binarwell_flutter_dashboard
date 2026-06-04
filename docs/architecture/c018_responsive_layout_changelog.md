@@ -1,7 +1,7 @@
-ï»¿# C018 â€” Responsive Layout Improvement Change Log
+# C018 — Responsive Layout Improvement Change Log
 
 ## Stage
-C018 â€” Responsive Layout Improvement
+C018 — Responsive Layout Improvement
 
 ## Scope
 Improve dashboard layout behavior on different screen widths without adding new features.
@@ -49,3 +49,4 @@ No real medical logic was implemented.
 
 ## Notes
 This stage improves layout resilience before final UI polish.
+

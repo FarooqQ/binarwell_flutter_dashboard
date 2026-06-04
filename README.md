@@ -1,4 +1,4 @@
-ï»¿# BinarWell Flutter Dashboard
+# BinarWell Flutter Dashboard
 
 BinarWell Flutter Dashboard is an educational Flutter UI practice project that demonstrates how to build a clean, responsive, and visually polished wellness dashboard using Flutter and Dart.
 
@@ -207,32 +207,32 @@ The project was built step by step using small implementation stages.
 
 Completed stages include:
 
-- C001 â€” Project foundation
-- C002 â€” Basic dashboard shell
-- C003 â€” Sidebar structure
-- C004 â€” Header structure
-- C005 â€” Dashboard content area
-- C006 â€” Card components
-- C007 â€” Wellness score card
-- C008 â€” Summary metric cards
-- C009 â€” Weekly movement section
-- C010 â€” Daily goals section
-- C011 â€” Checkup timeline section
-- C012 â€” Vital metrics section
-- C013 â€” Body balance section
-- C014 â€” Layout refinement
-- C015 â€” Component cleanup
-- C016 â€” Visual check
-- C017 â€” Mock data separation
-- C018 â€” Responsive layout improvement
-- C019 â€” UI polish
+- C001 — Project foundation
+- C002 — Basic dashboard shell
+- C003 — Sidebar structure
+- C004 — Header structure
+- C005 — Dashboard content area
+- C006 — Card components
+- C007 — Wellness score card
+- C008 — Summary metric cards
+- C009 — Weekly movement section
+- C010 — Daily goals section
+- C011 — Checkup timeline section
+- C012 — Vital metrics section
+- C013 — Body balance section
+- C014 — Layout refinement
+- C015 — Component cleanup
+- C016 — Visual check
+- C017 — Mock data separation
+- C018 — Responsive layout improvement
+- C019 — UI polish
 
 ---
 
 ## Latest Completed Stage
 
 ```text
-C019 â€” UI Polish
+C019 — UI Polish
 ```
 
 ### C019 Summary
@@ -280,8 +280,8 @@ Latest validation result:
 
 ```text
 dart format lib test: PASSED
-flutter analyze: PASSED â€” No issues found
-flutter test: PASSED â€” All tests passed
+flutter analyze: PASSED — No issues found
+flutter test: PASSED — All tests passed
 flutter run -d windows: PASSED
 ```
 
@@ -395,7 +395,7 @@ This makes the project suitable as a Flutter UI portfolio example.
 ## Recommended Next Stage
 
 ```text
-C020 â€” Documentation and Structure Review
+C020 — Documentation and Structure Review
 ```
 
 Suggested next focus:
@@ -414,7 +414,7 @@ Suggested next focus:
 
 ```text
 Current Status: C019 Completed
-Next Stage: C020 â€” Documentation and Structure Review
+Next Stage: C020 — Documentation and Structure Review
 Project Type: Educational Flutter UI Dashboard
 Data Type: Mock Data Only
 Backend: Not Connected
@@ -472,7 +472,7 @@ BinarWell Flutter Dashboard
 
 ---
 
-## Release 2 â€” Activity-First Multi-Page Expansion
+## Release 2 — Activity-First Multi-Page Expansion
 
 Release 2 expands the BinarWell Flutter Dashboard from a single Overview dashboard into a multi-page wellness dashboard experience.
 
@@ -551,7 +551,7 @@ It does not include:
 
 ## BinarWell Flutter Dashboard v1.2.0
 
-### Release 3 â€” Wellness Goals Expansion
+### Release 3 — Wellness Goals Expansion
 
 Release 3 adds a dedicated Wellness Goals page to BinarWell Flutter Dashboard.
 
@@ -607,6 +607,7 @@ Release 3 documentation is available in:
 docs/release_3/
 docs/screenshots/release_3/
 Version History
-v1.0.0 â€” Initial polished dashboard release
-v1.1.0 â€” Activity-first multi-page expansion
-v1.2.0 â€” Wellness Goals expansion
+v1.0.0 — Initial polished dashboard release
+v1.1.0 — Activity-first multi-page expansion
+v1.2.0 — Wellness Goals expansion
+

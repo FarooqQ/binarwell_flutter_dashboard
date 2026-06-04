@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG10 Changelog
+# CP-R3-001-MG10 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG10 — Widget Test Coverage
+CP-R3-001-MG10 � Widget Test Coverage
 
 ## Changes Completed
 
@@ -28,3 +28,4 @@ CP-R3-001-MG10 — Widget Test Coverage
 ## Notes
 
 This micro-gate adds test coverage for Release 3 without changing the visual UI.
+

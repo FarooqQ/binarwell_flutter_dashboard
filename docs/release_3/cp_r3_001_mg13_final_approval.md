@@ -1,8 +1,8 @@
-ï»¿# CP-R3-001-MG13 Final Approval
+# CP-R3-001-MG13 Final Approval
 
 ## Micro-Gate
 
-CP-R3-001-MG13 â€” Final Approval and Release 3 Closure
+CP-R3-001-MG13 — Final Approval and Release 3 Closure
 
 ## Release
 
@@ -10,7 +10,7 @@ BinarWell Flutter Dashboard v1.2.0
 
 ## Release Name
 
-Release 3 â€” Wellness Goals Expansion
+Release 3 — Wellness Goals Expansion
 
 ## Final Approval Summary
 
@@ -57,3 +57,4 @@ Notes
 This approval closes the implementation and documentation workflow for Release 3.
 
 Git commit, tag, and push must be performed only after the project owner confirms the publishing step.
+

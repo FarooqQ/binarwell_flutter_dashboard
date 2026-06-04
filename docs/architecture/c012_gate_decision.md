@@ -1,7 +1,7 @@
-ï»¿# C012 â€” Gate Decision
+# C012 — Gate Decision
 
 ## Gate
-C012 â€” Weekly Movement Card
+C012 — Weekly Movement Card
 
 ## Gate Status
 PASSED
@@ -39,4 +39,5 @@ No daily goals card, checkup timeline card, vital metrics card, body balance car
 C012 is completed and approved.
 
 ## Next Stage
-Ready for C013 â€” Daily Goals Card.
+Ready for C013 — Daily Goals Card.
+

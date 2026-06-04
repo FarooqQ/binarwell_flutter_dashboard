@@ -159,3 +159,4 @@ The page must:
 - No major overflow issues
 - Page remains consistent with BinarWell design language
 
+

@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG13 Changelog
+# CP-R3-001-MG13 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG13 — Final Approval and Release 3 Closure
+CP-R3-001-MG13 � Final Approval and Release 3 Closure
 
 ## Changes Completed
 
@@ -33,3 +33,4 @@ CP-R3-001-MG13 — Final Approval and Release 3 Closure
 ## Notes
 
 This micro-gate closes Release 3 but does not publish it.
+

@@ -1,4 +1,4 @@
-﻿# CP-R3-001-MG5 KPI Design Notes
+# CP-R3-001-MG5 KPI Design Notes
 
 ## Purpose
 
@@ -25,7 +25,7 @@ This follows the approved visual direction for the Wellness Goals page.
 
 The page includes four top KPI cards:
 
-1. Today’s Goal Completion
+1. Today�s Goal Completion
    - Value: 5 of 7
    - Meaning: completed goals today
 
@@ -58,3 +58,4 @@ This keeps the UI separate from hardcoded values and prepares the page for futur
 Header and KPI cards are implemented.
 
 The remaining page sections are still placeholders and will be completed in later micro-gates.
+

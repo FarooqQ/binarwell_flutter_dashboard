@@ -1,4 +1,4 @@
-﻿# C026 — Gate Decision
+# C026 � Gate Decision
 
 ## Gate Name
 
@@ -35,3 +35,4 @@ PASSED
 C026 Portfolio Evidence Package is completed.
 
 The project is ready to be used as evidence in CV, LinkedIn, GitHub Profile, portfolio pages, and job/freelance applications.
+

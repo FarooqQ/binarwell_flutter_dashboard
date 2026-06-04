@@ -1,7 +1,7 @@
-ï»¿# C013 â€” Daily Goals Card Change Log
+# C013 — Daily Goals Card Change Log
 
 ## Stage
-C013 â€” Daily Goals Card
+C013 — Daily Goals Card
 
 ## Scope
 Build a real daily goals card with progress and status indicators.
@@ -22,10 +22,10 @@ Build a real daily goals card with progress and status indicators.
 - test/widget_test.dart
 
 ## Daily Goals Added
-- Drink 2L Water â€” In Progress
-- Walk 6,000 Steps â€” Done
-- Sleep before 11 PM â€” Pending
-- 10 min breathing session â€” In Progress
+- Drink 2L Water — In Progress
+- Walk 6,000 Steps — Done
+- Sleep before 11 PM — Pending
+- 10 min breathing session — In Progress
 
 ## Validation
 - dart format lib test
@@ -44,3 +44,4 @@ No real medical logic was implemented.
 
 ## Notes
 This stage introduces a real checklist-style dashboard card while keeping the remaining lower cards as placeholders.
+

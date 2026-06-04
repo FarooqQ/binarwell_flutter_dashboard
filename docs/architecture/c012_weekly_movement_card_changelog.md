@@ -1,7 +1,7 @@
-ï»¿# C012 â€” Weekly Movement Card Change Log
+# C012 — Weekly Movement Card Change Log
 
 ## Stage
-C012 â€” Weekly Movement Card
+C012 — Weekly Movement Card
 
 ## Scope
 Build a real weekly movement card using a simple manual bar chart.
@@ -49,3 +49,4 @@ No backend or database was added.
 
 ## Notes
 This stage introduces the first simple chart-like dashboard card without external dependencies.
+

@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG5 Gate Decision
+# CP-R3-001-MG5 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG5 — Header and Summary KPI Cards
+CP-R3-001-MG5 � Header and Summary KPI Cards
 
 ## Gate Checklist
 
@@ -16,7 +16,7 @@ CP-R3-001-MG5 — Header and Summary KPI Cards
 - [ ] GoalSummaryCard was created.
 - [ ] GoalSummaryCards was created.
 - [ ] Four KPI cards are visible.
-- [ ] Today’s Goal Completion card is visible.
+- [ ] Today�s Goal Completion card is visible.
 - [ ] Current Streak card is visible.
 - [ ] Active Goals card is visible.
 - [ ] Weekly Completion Rate card is visible.
@@ -40,3 +40,4 @@ Gate Status
 CP-R3-001-MG5 Gate Status: PASSED
 
 Decision: Header and KPI cards match the approved visual direction.
+

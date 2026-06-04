@@ -1,4 +1,4 @@
-﻿# CP-R3-001-MG7 Planner and Categories Notes
+# CP-R3-001-MG7 Planner and Categories Notes
 
 ## Purpose
 
@@ -62,3 +62,4 @@ Each category includes:
 Weekly Goal Planner uses horizontal scrolling inside the card to avoid overflow on smaller widths.
 
 No Spacer widget is used inside the scrollable Wellness Goals page.
+

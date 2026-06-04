@@ -23,3 +23,4 @@ The card uses ActivityMockData.intensityZones.
 
 This gate implements the Intensity Zones component for the Activity page.
 
+

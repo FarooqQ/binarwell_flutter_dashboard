@@ -1,7 +1,7 @@
-ï»¿# C005 â€” Dashboard Shell Change Log
+# C005 — Dashboard Shell Change Log
 
 ## Stage
-C005 â€” Dashboard Shell
+C005 — Dashboard Shell
 
 ## Scope
 Build the first dashboard shell structure only.
@@ -40,3 +40,4 @@ No responsive polishing was added.
 
 ## Notes
 This stage only confirms the main dashboard structure before building real dashboard components.
+

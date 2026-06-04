@@ -1,8 +1,8 @@
-﻿# R2-020 Screenshots Checklist
+# R2-020 Screenshots Checklist
 
 ## Gate
 
-R2-020 — README and Screenshots Update
+R2-020 � README and Screenshots Update
 
 ## Screenshot Checklist
 
@@ -51,4 +51,5 @@ Capture the terminal results only if needed for GitHub or portfolio evidence.
 The screenshot structure is ready.
 
 Actual screenshots can be captured before GitHub release preparation.
+
 

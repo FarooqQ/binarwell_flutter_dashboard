@@ -1,7 +1,7 @@
-ï»¿# C009 â€” Base Dashboard Card Change Log
+# C009 — Base Dashboard Card Change Log
 
 ## Stage
-C009 â€” Base Dashboard Card
+C009 — Base Dashboard Card
 
 ## Scope
 Create a reusable base dashboard card and use it inside the placeholder dashboard content grid.
@@ -47,3 +47,4 @@ No backend or database was added.
 
 ## Notes
 This stage reduces repeated card decoration logic before building real dashboard widgets.
+

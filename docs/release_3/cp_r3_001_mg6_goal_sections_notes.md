@@ -1,13 +1,13 @@
-ï»¿# CP-R3-001-MG6 Goal Sections Notes
+# CP-R3-001-MG6 Goal Sections Notes
 
 ## Purpose
 
 This document records the implementation notes for the two main Wellness Goals sections:
 
-- Todayâ€™s Goal Checklist
+- Today’s Goal Checklist
 - Goal Focus of the Week
 
-## Todayâ€™s Goal Checklist
+## Today’s Goal Checklist
 
 The checklist section displays daily goals from WellnessGoalsMockData.todayGoals.
 
@@ -57,3 +57,4 @@ The goal of this stage is to make the middle of the page clear, readable, and vi
 No Spacer widget is used inside the scrollable Wellness Goals page.
 
 This avoids unbounded height layout problems in Flutter desktop runtime.
+

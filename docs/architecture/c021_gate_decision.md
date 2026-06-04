@@ -1,7 +1,7 @@
-ï»¿# C021 â€” Gate Decision
+# C021 — Gate Decision
 
 ## Gate
-C021 â€” GitHub Preparation
+C021 — GitHub Preparation
 
 ## Gate Status
 PASSED
@@ -43,4 +43,5 @@ C021 Gate Status: PASSED
 
 Next Stage
 
-Ready for C022 â€” Final Review.
+Ready for C022 — Final Review.
+

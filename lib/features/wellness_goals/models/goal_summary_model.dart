@@ -18,3 +18,4 @@ class GoalSummaryModel {
   final String? highlightText;
 }
 
+

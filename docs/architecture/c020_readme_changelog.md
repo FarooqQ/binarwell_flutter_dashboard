@@ -1,7 +1,7 @@
-ï»¿# C020 â€” README Change Log
+# C020 — README Change Log
 
 ## Stage
-C020 â€” README
+C020 — README
 
 ## Scope
 Create a professional README.md file for the BinarWell Flutter Dashboard project.
@@ -61,3 +61,4 @@ No real medical logic was implemented.
 
 ## Notes
 This stage prepares the project documentation for future GitHub publication while keeping GitHub setup for C021.
+

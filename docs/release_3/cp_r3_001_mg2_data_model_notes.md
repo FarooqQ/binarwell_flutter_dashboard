@@ -1,4 +1,4 @@
-﻿# CP-R3-001-MG2 Data Model Notes
+# CP-R3-001-MG2 Data Model Notes
 
 ## Purpose
 
@@ -27,7 +27,7 @@ Represents the top KPI cards used in the Wellness Goals page.
 
 Examples:
 
-- Today’s Goal Completion
+- Today�s Goal Completion
 - Current Streak
 - Active Goals
 - Weekly Completion Rate
@@ -75,3 +75,4 @@ It is designed to support the approved Wellness Goals visual reference without a
 This structure prevents the future UI widgets from containing hardcoded values directly inside the widget tree.
 
 The page can later be connected to real data without redesigning the UI.
+

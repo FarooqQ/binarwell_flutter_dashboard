@@ -1,7 +1,7 @@
-ï»¿# C008 â€” Gate Decision
+# C008 — Gate Decision
 
 ## Gate
-C008 â€” Dashboard Content Grid
+C008 — Dashboard Content Grid
 
 ## Gate Status
 PASSED
@@ -36,4 +36,5 @@ No real cards, charts, models, mock data, backend, or database were added in thi
 C008 is completed and approved.
 
 ## Next Stage
-Ready for C009 â€” Base Dashboard Card.
+Ready for C009 — Base Dashboard Card.
+

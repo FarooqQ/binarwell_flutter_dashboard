@@ -1,7 +1,7 @@
-ï»¿# C009 â€” Gate Decision
+# C009 — Gate Decision
 
 ## Gate
-C009 â€” Base Dashboard Card
+C009 — Base Dashboard Card
 
 ## Gate Status
 PASSED
@@ -33,4 +33,5 @@ No real dashboard cards, charts, models, mock data, backend, or database were ad
 C009 is completed and approved.
 
 ## Next Stage
-Ready for C010 â€” Wellness Score Card.
+Ready for C010 — Wellness Score Card.
+

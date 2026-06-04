@@ -41,3 +41,4 @@ R2-018 � Tests and Validation
 
 This gate confirms that Release 2 did not break the original Overview page and that the new Activity page renders correctly after sidebar selection.
 
+

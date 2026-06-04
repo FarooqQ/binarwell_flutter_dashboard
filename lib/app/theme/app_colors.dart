@@ -19,3 +19,4 @@ abstract final class AppColors {
   static const Color danger = Color(0xFFEF4444);
 }
 
+

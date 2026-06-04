@@ -1,7 +1,7 @@
-ï»¿# C006 â€” Gate Decision
+# C006 — Gate Decision
 
 ## Gate
-C006 â€” Wellness Sidebar
+C006 — Wellness Sidebar
 
 ## Gate Status
 PASSED
@@ -34,4 +34,5 @@ The RenderFlex overflow in _SidebarLogo was resolved before approving the gate.
 C006 is completed and approved.
 
 ## Next Stage
-Ready for C007 â€” Header / Top Area.
+Ready for C007 — Header / Top Area.
+

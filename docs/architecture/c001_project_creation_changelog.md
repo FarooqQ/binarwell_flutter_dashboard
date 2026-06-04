@@ -1,7 +1,7 @@
-ï»¿# C001 â€” Project Creation Change Log
+# C001 — Project Creation Change Log
 
 ## Stage
-C001 â€” Create Clean Flutter Project
+C001 — Create Clean Flutter Project
 
 ## Project Name
 BinarWell_flutter_dashboard
@@ -11,7 +11,7 @@ D:\My Experience\car helth\BinarWell_flutter_dashboard
 
 ## Completed Micro-Gates
 
-### C001-MG0 â€” Pre-Check
+### C001-MG0 — Pre-Check
 Status: PASSED
 
 Notes:
@@ -21,13 +21,13 @@ Notes:
 - Chrome support is available.
 - Android license issue is not blocking for Windows/Web development.
 
-### C001-MG1 â€” Create Flutter Project
+### C001-MG1 — Create Flutter Project
 Status: PASSED
 
 Notes:
 - Flutter project was created successfully.
 
-### C001-MG2 â€” Open Project in VS Code
+### C001-MG2 — Open Project in VS Code
 Status: PASSED
 
 Notes:
@@ -35,19 +35,19 @@ Notes:
 - lib/main.dart exists.
 - Flutter default project folders are present.
 
-### C001-MG3 â€” First Analyze Check
+### C001-MG3 — First Analyze Check
 Status: PASSED
 
 Validation Result:
 - flutter analyze: No issues found!
 
-### C001-MG4 â€” First Run
+### C001-MG4 — First Run
 Status: PASSED
 
 Validation Result:
 - Flutter default app opened successfully on Windows.
 
-### C001-MG5 â€” Tree Snapshot
+### C001-MG5 — Tree Snapshot
 Status: PASSED
 
 Generated File:
@@ -67,4 +67,5 @@ C001 Gate Status: PASSED
 
 ## Next Stage
 
-Ready to start C002 â€” Clean main.dart and build App Root.
+Ready to start C002 — Clean main.dart and build App Root.
+

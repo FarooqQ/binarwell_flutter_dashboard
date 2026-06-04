@@ -1,4 +1,4 @@
-ï»¿# Wellness Goals Reference
+# Wellness Goals Reference
 
 ## Project
 
@@ -6,15 +6,15 @@ BinarWell Flutter Dashboard v1.2.0
 
 ## Release
 
-Release 3 â€” Wellness Goals Expansion
+Release 3 — Wellness Goals Expansion
 
 ## Implementation Track
 
-CP-R3-001 â€” Wellness Goals Page Implementation
+CP-R3-001 — Wellness Goals Page Implementation
 
 ## Micro-Gate
 
-CP-R3-001-MG1 â€” Reference Lock and Scope Definition
+CP-R3-001-MG1 — Reference Lock and Scope Definition
 
 ## Approved Visual Reference
 
@@ -36,11 +36,11 @@ The Wellness Goals page must include:
 2. Clear Add Goal button
 3. Today date filter
 4. Four KPI summary cards:
-   - Todayâ€™s Goal Completion
+   - Today’s Goal Completion
    - Current Streak
    - Active Goals
    - Weekly Completion Rate
-5. Todayâ€™s Goal Checklist
+5. Today’s Goal Checklist
 6. Goal Focus of the Week
 7. Weekly Goal Planner
 8. Goal Categories
@@ -63,3 +63,4 @@ This release must preserve the public identity of the previous two versions:
 - BinarWell Flutter Dashboard v1.1.0
 
 Release 3 must clearly show what was added after the previous releases without hiding or overwriting their documented value.
+

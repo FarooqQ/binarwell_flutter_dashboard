@@ -1,7 +1,7 @@
-ï»¿# C011 â€” Gate Decision
+# C011 — Gate Decision
 
 ## Gate
-C011 â€” Summary Metric Cards
+C011 — Summary Metric Cards
 
 ## Gate Status
 PASSED
@@ -33,4 +33,5 @@ No weekly movement card, daily goals card, mock data, models, backend, database,
 C011 is completed and approved.
 
 ## Next Stage
-Ready for C012 â€” Weekly Movement Card.
+Ready for C012 — Weekly Movement Card.
+

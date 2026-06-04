@@ -1,4 +1,4 @@
-﻿# Miscellaneous
+# Miscellaneous
 *.class
 *.log
 *.pyc
@@ -75,3 +75,4 @@ credentials.*
 docs/portfolio/**/private/
 *_private_notes.md
 *_personal_notes.md
+

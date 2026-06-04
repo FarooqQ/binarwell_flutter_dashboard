@@ -12,3 +12,4 @@ class ActivityInsightModel {
   final String iconKey;
 }
 
+

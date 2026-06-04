@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG4 Changelog
+# CP-R3-001-MG4 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG4 — Page Layout Foundation
+CP-R3-001-MG4 � Page Layout Foundation
 
 ## Changes Completed
 
@@ -33,3 +33,4 @@ CP-R3-001-MG4 — Page Layout Foundation
 ## Notes
 
 This micro-gate focuses on layout foundation only. Detailed UI content will be implemented in CP-R3-001-MG5, MG6, MG7, and MG8.
+

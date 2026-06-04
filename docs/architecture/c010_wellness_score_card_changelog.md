@@ -1,7 +1,7 @@
-ï»¿# C010 â€” Wellness Score Card Change Log
+# C010 — Wellness Score Card Change Log
 
 ## Stage
-C010 â€” Wellness Score Card
+C010 — Wellness Score Card
 
 ## Scope
 Build the first real dashboard card: WellnessScoreCard.
@@ -46,3 +46,4 @@ No real medical logic was implemented.
 
 ## Notes
 This stage introduces the first real dashboard card while keeping the remaining grid cards as placeholders.
+

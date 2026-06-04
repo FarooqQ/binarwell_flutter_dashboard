@@ -1,7 +1,7 @@
-ï»¿# C015 â€” Vital Metrics Card Change Log
+# C015 — Vital Metrics Card Change Log
 
 ## Stage
-C015 â€” Vital Metrics Card
+C015 — Vital Metrics Card
 
 ## Scope
 Build a real vital metrics card using a reusable MetricTile widget.
@@ -42,3 +42,4 @@ No real medical logic was implemented.
 
 ## Notes
 This stage introduces a reusable MetricTile component that can be reused later in other dashboard cards.
+

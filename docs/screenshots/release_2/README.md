@@ -1,4 +1,4 @@
-﻿# Release 2 Screenshots
+# Release 2 Screenshots
 
 This folder contains public-facing screenshots for BinarWell Flutter Dashboard Release 2.
 
@@ -18,4 +18,5 @@ This folder contains public-facing screenshots for BinarWell Flutter Dashboard R
 All screenshots should use mock data only.
 
 No private information, personal files, usernames, emails, or system paths should appear in public screenshots.
+
 

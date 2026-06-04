@@ -24,3 +24,4 @@ The card uses ActivityMockData.sessions.
 
 This gate implements the daily activity sessions component for the Activity page.
 
+

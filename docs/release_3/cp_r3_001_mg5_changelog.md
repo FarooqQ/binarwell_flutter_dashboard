@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG5 Changelog
+# CP-R3-001-MG5 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG5 — Header and Summary KPI Cards
+CP-R3-001-MG5 � Header and Summary KPI Cards
 
 ## Changes Completed
 
@@ -39,3 +39,4 @@ CP-R3-001-MG5 — Header and Summary KPI Cards
 This micro-gate focuses only on the header and KPI summary cards.
 
 Detailed implementation of checklist, focus goals, planner, categories, achievements, and insights will continue in later micro-gates.
+

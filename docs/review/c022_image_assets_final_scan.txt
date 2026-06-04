@@ -1,4 +1,4 @@
-﻿
+
 FullName                                                                                                                      
 --------                                                                                                                      
 D:\My_Experience\car_helth\BinarWell_flutter_dashboard\android\app\src\main\res\mipmap-hdpi\ic_launcher.png                   
@@ -36,5 +36,6 @@ D:\My_Experience\car_helth\BinarWell_flutter_dashboard\web\icons\Icon-512.png
 D:\My_Experience\car_helth\BinarWell_flutter_dashboard\web\icons\Icon-maskable-192.png                                        
 D:\My_Experience\car_helth\BinarWell_flutter_dashboard\web\icons\Icon-maskable-512.png                                        
 D:\My_Experience\car_helth\BinarWell_flutter_dashboard\web\favicon.png                                                        
+
 
 

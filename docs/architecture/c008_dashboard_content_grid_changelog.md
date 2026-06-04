@@ -1,7 +1,7 @@
-ï»¿# C008 â€” Dashboard Content Grid Change Log
+# C008 — Dashboard Content Grid Change Log
 
 ## Stage
-C008 â€” Dashboard Content Grid
+C008 — Dashboard Content Grid
 
 ## Scope
 Build the dashboard content grid using placeholder cards only.
@@ -46,3 +46,4 @@ No backend or database was added.
 
 ## Notes
 This stage only prepares the visual grid structure before building reusable cards and real dashboard widgets.
+

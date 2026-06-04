@@ -5,3 +5,4 @@ class HourlyMovementModel {
   final int steps;
 }
 
+

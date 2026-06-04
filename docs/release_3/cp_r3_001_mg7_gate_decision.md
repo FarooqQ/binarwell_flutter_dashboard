@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG7 Gate Decision
+# CP-R3-001-MG7 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG7 — Weekly Goal Planner and Goal Categories
+CP-R3-001-MG7 � Weekly Goal Planner and Goal Categories
 
 ## Gate Checklist
 
@@ -42,3 +42,4 @@ Gate Status
 CP-R3-001-MG7 Gate Status: PASSED
 
 Decision: Weekly planner and category progress sections are complete.
+

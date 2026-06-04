@@ -1,7 +1,7 @@
 # BW-RN-001-MG3 — Rename Flutter Package and App Title
 
 ## Scope
-Rename the Flutter technical identity from CarePulse to BinarWell.
+Rename the Flutter technical identity from BinarWell to BinarWell.
 
 ## Updated items
 - Flutter package name updated to binarwell_flutter_dashboard
@@ -22,3 +22,4 @@ Some documentation and public identity references may already be changed by the 
 
 ## Gate decision
 PASSED
+

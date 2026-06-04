@@ -1,4 +1,4 @@
-﻿# C023 — Gate Decision
+# C023 � Gate Decision
 
 ## Quality Checks Required
 
@@ -20,3 +20,4 @@
 ## Gate Status
 
 PASSED / FAILED
+

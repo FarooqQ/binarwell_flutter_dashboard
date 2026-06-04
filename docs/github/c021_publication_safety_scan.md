@@ -1,7 +1,7 @@
-ï»¿# C021 â€” Publication Safety Scan
+# C021 — Publication Safety Scan
 
 ## Stage
-C021 â€” GitHub Preparation
+C021 — GitHub Preparation
 
 ## Purpose
 Check whether the BinarWell Flutter Dashboard project is safe for public GitHub preparation.
@@ -46,3 +46,4 @@ The project is safe for local GitHub preparation if:
 
 ## Gate Note
 This stage prepares the project locally. It does not publish or push the repository to GitHub.
+

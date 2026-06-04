@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG7 Changelog
+# CP-R3-001-MG7 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG7 — Weekly Goal Planner and Goal Categories
+CP-R3-001-MG7 � Weekly Goal Planner and Goal Categories
 
 ## Changes Completed
 
@@ -39,3 +39,4 @@ CP-R3-001-MG7 — Weekly Goal Planner and Goal Categories
 ## Notes
 
 This micro-gate adds the weekly planning and category progress layer to the Wellness Goals page.
+

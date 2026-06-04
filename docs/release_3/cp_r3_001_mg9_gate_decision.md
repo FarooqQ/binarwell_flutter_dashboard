@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG9 Gate Decision
+# CP-R3-001-MG9 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG9 — Responsive Layout Review
+CP-R3-001-MG9 � Responsive Layout Review
 
 ## Gate Checklist
 
@@ -12,7 +12,7 @@ CP-R3-001-MG9 — Responsive Layout Review
 - [ ] Sidebar spacing reviewed.
 - [ ] Main content edge spacing reviewed.
 - [ ] KPI cards reviewed.
-- [ ] Today’s Goal Checklist reviewed.
+- [ ] Today�s Goal Checklist reviewed.
 - [ ] Goal Focus of the Week reviewed.
 - [ ] Weekly Goal Planner reviewed.
 - [ ] Goal Categories reviewed.

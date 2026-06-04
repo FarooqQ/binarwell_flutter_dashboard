@@ -1,4 +1,4 @@
-ï»¿# CP-R3-001-MG1 â€” Reference Lock and Scope Definition
+# CP-R3-001-MG1 — Reference Lock and Scope Definition
 
 ## Document
 
@@ -14,7 +14,7 @@ v1.2.0
 
 ## Release
 
-Release 3 â€” Wellness Goals Expansion
+Release 3 — Wellness Goals Expansion
 
 ---
 
@@ -91,3 +91,4 @@ Release 3 will be published as v1.2.0 and must not replace the previous public r
 No Flutter code is modified in this micro-gate.
 
 This micro-gate is documentation and scope preparation only.
+

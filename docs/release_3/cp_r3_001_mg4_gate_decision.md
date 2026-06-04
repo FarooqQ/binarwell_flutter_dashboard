@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG4 Gate Decision
+# CP-R3-001-MG4 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG4 — Page Layout Foundation
+CP-R3-001-MG4 � Page Layout Foundation
 
 ## Gate Checklist
 
@@ -12,7 +12,7 @@ CP-R3-001-MG4 — Page Layout Foundation
 - [ ] Header area is visible.
 - [ ] Add Goal button is visible.
 - [ ] KPI placeholder row is visible.
-- [ ] Today’s Goal Checklist placeholder is visible.
+- [ ] Today�s Goal Checklist placeholder is visible.
 - [ ] Goal Focus of the Week placeholder is visible.
 - [ ] Weekly Goal Planner placeholder is visible.
 - [ ] Goal Categories placeholder is visible.
@@ -34,3 +34,4 @@ Gate Status
 CP-R3-001-MG4 Gate Status: PASSED
 
 Decision: Wellness Goals layout foundation is ready.
+

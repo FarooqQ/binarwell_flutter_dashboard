@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG8 Changelog
+# CP-R3-001-MG8 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG8 — Recent Achievements and Wellness Insights
+CP-R3-001-MG8 � Recent Achievements and Wellness Insights
 
 ## Changes Completed
 
@@ -39,3 +39,4 @@ CP-R3-001-MG8 — Recent Achievements and Wellness Insights
 ## Notes
 
 This micro-gate completes the lower motivational and insight sections of the Wellness Goals page.
+

@@ -1,7 +1,7 @@
-ï»¿# C014 â€” Checkup Timeline Card Change Log
+# C014 — Checkup Timeline Card Change Log
 
 ## Stage
-C014 â€” Checkup Timeline Card
+C014 — Checkup Timeline Card
 
 ## Scope
 Build a real checkup timeline card with status badges.
@@ -23,10 +23,10 @@ Build a real checkup timeline card with status badges.
 - test/widget_test.dart
 
 ## Checkup Timeline Items Added
-- Nutrition Review â€” Upcoming
-- Blood Test â€” Scheduled
-- Eye Check â€” Completed
-- Fitness Assessment â€” Planned
+- Nutrition Review — Upcoming
+- Blood Test — Scheduled
+- Eye Check — Completed
+- Fitness Assessment — Planned
 
 ## Validation
 - dart format lib test
@@ -44,3 +44,4 @@ No real medical logic was implemented.
 
 ## Notes
 This stage introduces a timeline-style dashboard card while keeping Vital Metrics and Body Balance as placeholders.
+

@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG3 Gate Decision
+# CP-R3-001-MG3 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG3 — Navigation and Page Registration
+CP-R3-001-MG3 � Navigation and Page Registration
 
 ## Gate Checklist
 
@@ -31,3 +31,4 @@ CP-R3-001-MG3 Gate Status: PASSED
 Decision
 
 Decision: Wellness Goals page is registered and accessible from navigation.
+

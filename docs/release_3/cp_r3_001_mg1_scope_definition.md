@@ -1,4 +1,4 @@
-ï»¿# CP-R3-001-MG1 â€” Wellness Goals Scope Definition
+# CP-R3-001-MG1 — Wellness Goals Scope Definition
 
 ## Project
 
@@ -10,7 +10,7 @@ v1.2.0
 
 ## Release
 
-Release 3 â€” Wellness Goals Expansion
+Release 3 — Wellness Goals Expansion
 
 ---
 
@@ -122,3 +122,4 @@ Each stage should follow this structure:
 4. Run quality checks
 5. Document changes
 6. Gate decision
+

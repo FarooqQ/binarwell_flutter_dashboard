@@ -1,7 +1,7 @@
-ï»¿# C006 â€” Wellness Sidebar Change Log
+# C006 — Wellness Sidebar Change Log
 
 ## Stage
-C006 â€” Build Wellness Sidebar
+C006 — Build Wellness Sidebar
 
 ## Scope
 Replace the temporary sidebar placeholder with a real BinarWell wellness sidebar.
@@ -57,3 +57,4 @@ No copied third-party design names or assets were used.
 
 ## Notes
 This stage finalizes the real sidebar structure before starting the dashboard header stage.
+

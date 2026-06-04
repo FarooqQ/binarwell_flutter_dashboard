@@ -1,8 +1,8 @@
-ï»¿# R2-020 Gate Decision
+# R2-020 Gate Decision
 
 ## Gate
 
-R2-020 â€” README and Screenshots Update
+R2-020 — README and Screenshots Update
 
 ## Status
 
@@ -31,5 +31,6 @@ R2-020 README and Screenshots Update: PASSED
 
 ## Next Gate
 
-R2-021 â€” Release Baseline Protection & Version Delta Documentation
+R2-021 — Release Baseline Protection & Version Delta Documentation
+
 

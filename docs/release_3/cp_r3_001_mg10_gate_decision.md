@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG10 Gate Decision
+# CP-R3-001-MG10 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG10 — Widget Test Coverage
+CP-R3-001-MG10 � Widget Test Coverage
 
 ## Gate Checklist
 
@@ -11,7 +11,7 @@ CP-R3-001-MG10 — Widget Test Coverage
 - [ ] Test verifies header title.
 - [ ] Test verifies Today button.
 - [ ] Test verifies Add Goal button.
-- [ ] Test verifies Today’s Goal Checklist section.
+- [ ] Test verifies Today�s Goal Checklist section.
 - [ ] Test verifies Goal Focus of the Week section.
 - [ ] Test verifies Weekly Goal Planner section.
 - [ ] Test verifies Goal Categories section.

@@ -1,7 +1,7 @@
-ï»¿# C019 â€” Gate Decision
+# C019 — Gate Decision
 
 ## Gate
-C019 â€” UI Polish
+C019 — UI Polish
 
 ## Gate Status
 PASSED
@@ -39,4 +39,5 @@ No new features, mock data changes, backend, database, or real medical logic wer
 C019 is completed and approved.
 
 ## Next Stage
-Ready for C020 â€” README.
+Ready for C020 — README.
+

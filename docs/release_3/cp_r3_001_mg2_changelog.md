@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG2 Changelog
+# CP-R3-001-MG2 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG2 — Data Models and Mock Data
+CP-R3-001-MG2 � Data Models and Mock Data
 
 ## Changes Completed
 
@@ -29,3 +29,4 @@ CP-R3-001-MG2 — Data Models and Mock Data
 ## Notes
 
 This micro-gate does not create UI widgets. The purpose is to prepare clean and reusable data structures before starting page registration and layout implementation.
+

@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG6 Changelog
+# CP-R3-001-MG6 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG6 — Today’s Goal Checklist and Goal Focus
+CP-R3-001-MG6 � Today�s Goal Checklist and Goal Focus
 
 ## Changes Completed
 
@@ -10,7 +10,7 @@ CP-R3-001-MG6 — Today’s Goal Checklist and Goal Focus
 - Created GoalChecklistItem.
 - Created GoalFocusCard.
 - Created GoalFocusItem.
-- Replaced Today’s Goal Checklist placeholder with real goal checklist UI.
+- Replaced Today�s Goal Checklist placeholder with real goal checklist UI.
 - Replaced Goal Focus of the Week placeholder with real focus goal UI.
 - Connected both sections to WellnessGoalsMockData.
 - Kept Weekly Goal Planner, Goal Categories, Recent Achievements, and Wellness Insights as placeholders for later micro-gates.
@@ -38,3 +38,4 @@ CP-R3-001-MG6 — Today’s Goal Checklist and Goal Focus
 ## Notes
 
 This micro-gate implements the main goal tracking sections and makes the page clearly focused on wellness goals rather than activity tracking.
+

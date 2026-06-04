@@ -1,8 +1,8 @@
-ï»¿# CP-R3-001-MG1 Gate Decision
+# CP-R3-001-MG1 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG1 â€” Reference Lock and Scope Definition
+CP-R3-001-MG1 — Reference Lock and Scope Definition
 
 ## Project
 
@@ -14,7 +14,7 @@ v1.2.0
 
 ## Release
 
-Release 3 â€” Wellness Goals Expansion
+Release 3 — Wellness Goals Expansion
 
 ---
 
@@ -104,3 +104,4 @@ CP-R3-001-MG1 Gate Status: READY FOR LOCAL VALIDATION
 ## Decision
 
 Decision: Waiting for local validation before marking this micro-gate as PASSED.
+

@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG6 Gate Decision
+# CP-R3-001-MG6 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG6 — Today’s Goal Checklist and Goal Focus
+CP-R3-001-MG6 � Today�s Goal Checklist and Goal Focus
 
 ## Gate Checklist
 
@@ -10,7 +10,7 @@ CP-R3-001-MG6 — Today’s Goal Checklist and Goal Focus
 - [ ] GoalChecklistItem was created.
 - [ ] GoalFocusCard was created.
 - [ ] GoalFocusItem was created.
-- [ ] Today’s Goal Checklist is visible.
+- [ ] Today�s Goal Checklist is visible.
 - [ ] Goal Focus of the Week is visible.
 - [ ] Checklist items show icon.
 - [ ] Checklist items show checkbox.

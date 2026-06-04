@@ -32,3 +32,4 @@ This gate focuses only on Today's Movement.
 
 Activity Goals, Hourly Movement, Sessions, Intensity Zones, and Insights will be improved in later gates.
 
+

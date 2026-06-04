@@ -1,8 +1,8 @@
-ï»¿# CP-R3-001-MG9 Responsive Layout Review
+# CP-R3-001-MG9 Responsive Layout Review
 
 ## Micro-Gate
 
-CP-R3-001-MG9 â€” Responsive Layout Review
+CP-R3-001-MG9 — Responsive Layout Review
 
 ## Page
 
@@ -19,7 +19,7 @@ The review focuses on:
 - Overall page spacing
 - Sidebar and main content alignment
 - KPI cards responsiveness
-- Todayâ€™s Goal Checklist layout
+- Today’s Goal Checklist layout
 - Goal Focus of the Week layout
 - Weekly Goal Planner layout
 - Goal Categories layout
@@ -97,3 +97,4 @@ The visual validation is required because previous layout issues were not caught
 Review Status
 
 PENDING
+

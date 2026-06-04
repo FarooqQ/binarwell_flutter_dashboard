@@ -1,4 +1,4 @@
-﻿# Release 3 Screenshots
+# Release 3 Screenshots
 
 This folder is prepared for screenshots related to:
 
@@ -16,3 +16,4 @@ Suggested future screenshot names:
 - wellness_goals_sidebar_active.png
 - validation_flutter_analyze.png
 - validation_flutter_test.png
+

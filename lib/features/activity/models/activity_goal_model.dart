@@ -16,3 +16,4 @@ class ActivityGoalModel {
   int get percentage => (progress * 100).round();
 }
 
+

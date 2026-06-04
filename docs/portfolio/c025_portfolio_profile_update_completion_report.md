@@ -1,26 +1,26 @@
-ï»¿# C025 â€” Portfolio Profile Update Completion Report
+# C025 — Portfolio Profile Update Completion Report
 
 ## Completed Gates
 
-### C025-MG1 â€” GitHub Pin Repository
+### C025-MG1 — GitHub Pin Repository
 
 Status: PASSED
 
 The BinarWell Flutter Dashboard repository was pinned on the GitHub profile.
 
-### C025-MG2 â€” GitHub Profile README
+### C025-MG2 — GitHub Profile README
 
 Status: PASSED
 
 The project was added to the GitHub Profile README as a featured portfolio project.
 
-### C025-MG3 â€” LinkedIn Featured Update
+### C025-MG3 — LinkedIn Featured Update
 
 Status: PASSED
 
 The project was added to the LinkedIn Featured section.
 
-### C025-MG4 â€” CV / Portfolio Text
+### C025-MG4 — CV / Portfolio Text
 
 Status: READY
 
@@ -55,3 +55,4 @@ BinarWell Flutter Dashboard is now:
 This project uses mock data only.
 
 It is not connected to any real medical system, backend, database, or API.
+

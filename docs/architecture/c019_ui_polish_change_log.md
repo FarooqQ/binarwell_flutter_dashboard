@@ -1,8 +1,8 @@
-ï»¿# C019 â€” UI Polish Change Log
+# C019 — UI Polish Change Log
 
 ## Stage
 
-C019 â€” UI Polish
+C019 — UI Polish
 
 ## Scope
 
@@ -25,7 +25,7 @@ No new dashboard feature was added in this stage.
 
 ## Completed Actions
 
-### C019 â€” Initial UI Polish
+### C019 — Initial UI Polish
 
 - Created AppShadows as a shared design token file.
 - Updated DashboardCard to use AppShadows.card.
@@ -33,7 +33,7 @@ No new dashboard feature was added in this stage.
 - Updated WellnessSidebar to use AppShadows.panel.
 - Updated widget test description after UI polish.
 
-### C019-FIX1 â€” Improve Shadow Visibility
+### C019-FIX1 — Improve Shadow Visibility
 
 The first shadow values were too subtle on the light dashboard background.
 
@@ -45,7 +45,7 @@ Fix applied:
 - Increased vertical offset.
 - Used negative spreadRadius to keep the shadows soft and professional.
 
-### C019-FIX2 â€” Increase Background/Card Contrast
+### C019-FIX2 — Increase Background/Card Contrast
 
 After improving shadow values, the shadow still remained visually subtle because the dashboard background was too close to the white card surfaces.
 
@@ -130,8 +130,8 @@ Commands executed:
 Validation results:
 
     dart format lib test: PASSED
-    flutter analyze: PASSED â€” No issues found
-    flutter test: PASSED â€” All tests passed
+    flutter analyze: PASSED — No issues found
+    flutter test: PASSED — All tests passed
     flutter run -d windows: PASSED
 
 Manual visual validation:
@@ -158,7 +158,7 @@ C019 quality gate passed successfully.
 
 ### Gate Decision
 
-    C019 â€” UI Polish: ACCEPTED
+    C019 — UI Polish: ACCEPTED
 
 The stage is considered complete because the dashboard now has improved visual polish without introducing new functionality or breaking existing behavior.
 
@@ -181,7 +181,7 @@ The new AppShadows token file improves maintainability because future shadow cha
 
 ## Final Status
 
-    C019 â€” UI Polish: COMPLETED
+    C019 — UI Polish: COMPLETED
 
 ### Final Result
 
@@ -193,7 +193,7 @@ The most important improvement is not only stronger shadows, but better contrast
 
 ## Next Recommended Stage
 
-    C020 â€” Documentation and Structure Review
+    C020 — Documentation and Structure Review
 
 Suggested next focus:
 
@@ -212,4 +212,5 @@ C019 successfully completed the visual polish stage for the BinarWell dashboard.
 The UI is now more refined, readable, and visually structured. The improvements were intentionally limited to presentation-level changes, keeping the project stable and avoiding unnecessary architectural or feature changes.
 
 This stage is ready to be recorded as a completed micro-gate.
+
 

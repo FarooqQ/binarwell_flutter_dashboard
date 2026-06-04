@@ -1,4 +1,4 @@
-﻿# CP-R3-001-MG10 Widget Test Notes
+# CP-R3-001-MG10 Widget Test Notes
 
 ## Purpose
 
@@ -16,7 +16,7 @@ The widget test verifies that the page renders:
 - Header title
 - Today filter button
 - Add Goal button
-- Today’s Goal Checklist
+- Today�s Goal Checklist
 - Goal Focus of the Week
 - Weekly Goal Planner
 - Goal Categories
@@ -45,3 +45,4 @@ The widget test also checks important labels from the mock data, including:
 ## Encoding Safety
 
 Keys are used for main section titles to reduce the risk of failures caused by smart apostrophe or text encoding issues.
+

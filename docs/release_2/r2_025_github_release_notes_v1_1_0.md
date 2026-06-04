@@ -1,6 +1,6 @@
-﻿# BinarWell Flutter Dashboard v1.1.0
+# BinarWell Flutter Dashboard v1.1.0
 
-## Release 2 — Activity-First Multi-Page Expansion
+## Release 2 � Activity-First Multi-Page Expansion
 
 BinarWell Flutter Dashboard v1.1.0 expands the original v1.0.0 dashboard from a single Overview page into a multi-page wellness dashboard experience.
 
@@ -75,3 +75,4 @@ This release can be used as a Flutter UI portfolio example for:
 - Wellness dashboard design
 - Responsive desktop Flutter UI
 - Clean release documentation workflow
+

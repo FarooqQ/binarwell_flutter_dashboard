@@ -213,3 +213,4 @@ class _SidebarMenuItemData {
   final IconData icon;
   final bool isSelected;
 }
+

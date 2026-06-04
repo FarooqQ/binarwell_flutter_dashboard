@@ -1,6 +1,6 @@
-﻿# BinarWell Flutter Dashboard v1.2.0
+# BinarWell Flutter Dashboard v1.2.0
 
-## Release 3 — Wellness Goals Expansion
+## Release 3 � Wellness Goals Expansion
 
 BinarWell Flutter Dashboard v1.2.0 expands the project with a dedicated Wellness Goals page.
 
@@ -73,3 +73,4 @@ Status
 Release 3 implementation is complete up to CP-R3-001-MG11 documentation preparation.
 
 Final publishing preparation will continue in the next micro-gates.
+

@@ -1,4 +1,4 @@
-﻿
+
 build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:7:      - "C:/Program Files/Microsoft Visual 
 Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
 build\windows\x64\CMakeFiles\CMakeConfigureLog.yaml:14:      - "C:/Program Files/Microsoft Visual 
@@ -73,5 +73,6 @@ docs\github\c021_publication_safety_scan.md:19:- Supplements
 docs\github\c021_publication_safety_scan.md:20:- Community
 docs\review\c022_final_review_checklist.md:14:- [ ] The project does not use the name Zero Health.
 docs\review\c022_final_review_checklist.md:15:- [ ] The project does not use the name ZeroHealth.
+
 
 

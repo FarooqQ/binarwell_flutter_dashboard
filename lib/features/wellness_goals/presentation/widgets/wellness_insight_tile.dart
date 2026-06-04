@@ -104,3 +104,4 @@ class _InsightIconBadge extends StatelessWidget {
   }
 }
 
+

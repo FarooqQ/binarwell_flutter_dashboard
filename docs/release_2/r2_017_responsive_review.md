@@ -72,3 +72,4 @@ For medium and small widths, stacking sections vertically is acceptable when it 
 
 The Activity page responsive behavior is acceptable for Release 2.
 
+

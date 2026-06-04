@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG11 Changelog
+# CP-R3-001-MG11 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG11 — README and Release 3 Documentation Update
+CP-R3-001-MG11 � README and Release 3 Documentation Update
 
 ## Changes Completed
 
@@ -39,3 +39,4 @@ CP-R3-001-MG11 — README and Release 3 Documentation Update
 This micro-gate does not modify Flutter UI code.
 
 It prepares the public documentation layer for Release 3.
+

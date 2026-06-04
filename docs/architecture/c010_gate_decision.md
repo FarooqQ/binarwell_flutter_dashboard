@@ -1,7 +1,7 @@
-ï»¿# C010 â€” Gate Decision
+# C010 — Gate Decision
 
 ## Gate
-C010 â€” Wellness Score Card
+C010 — Wellness Score Card
 
 ## Gate Status
 PASSED
@@ -34,4 +34,5 @@ No summary cards, charts, mock data, models, backend, database, or real medical 
 C010 is completed and approved.
 
 ## Next Stage
-Ready for C011 â€” Summary Metric Cards.
+Ready for C011 — Summary Metric Cards.
+

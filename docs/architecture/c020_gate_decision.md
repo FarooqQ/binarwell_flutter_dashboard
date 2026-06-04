@@ -1,7 +1,7 @@
-ï»¿# C020 â€” Gate Decision
+# C020 — Gate Decision
 
 ## Gate
-C020 â€” README
+C020 — README
 
 ## Gate Status
 PASSED
@@ -49,4 +49,5 @@ C020 Gate Status: PASSED
 
 Next Stage
 
-Ready for C021 â€” GitHub Preparation.
+Ready for C021 — GitHub Preparation.
+

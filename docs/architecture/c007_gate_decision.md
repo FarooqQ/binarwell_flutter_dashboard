@@ -1,7 +1,7 @@
-ï»¿# C007 â€” Gate Decision
+# C007 — Gate Decision
 
 ## Gate
-C007 â€” Header / Top Area
+C007 — Header / Top Area
 
 ## Gate Status
 PASSED
@@ -29,4 +29,5 @@ No dashboard cards, charts, mock data, or responsive polishing were added in thi
 C007 is completed and approved.
 
 ## Next Stage
-Ready for C008 â€” Dashboard Content Grid.
+Ready for C008 — Dashboard Content Grid.
+

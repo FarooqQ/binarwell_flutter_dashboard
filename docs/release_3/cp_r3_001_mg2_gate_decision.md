@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG2 Gate Decision
+# CP-R3-001-MG2 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG2 — Data Models and Mock Data
+CP-R3-001-MG2 � Data Models and Mock Data
 
 ## Gate Checklist
 

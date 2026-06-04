@@ -1,7 +1,7 @@
-ï»¿# C014 â€” Gate Decision
+# C014 — Gate Decision
 
 ## Gate
-C014 â€” Checkup Timeline Card
+C014 — Checkup Timeline Card
 
 ## Gate Status
 PASSED
@@ -42,4 +42,5 @@ No vital metrics card, body balance card, mock data, backend, database, or real 
 C014 is completed and approved.
 
 ## Next Stage
-Ready for C015 â€” Vital Metrics Card.
+Ready for C015 — Vital Metrics Card.
+

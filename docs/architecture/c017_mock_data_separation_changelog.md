@@ -1,7 +1,7 @@
-ï»¿# C017 â€” Mock Data Separation Change Log
+# C017 — Mock Data Separation Change Log
 
 ## Stage
-C017 â€” Mock Data Separation
+C017 — Mock Data Separation
 
 ## Scope
 Separate mock dashboard data from UI widgets into models and a centralized mock data file.
@@ -53,3 +53,4 @@ No responsive polishing was added.
 
 ## Notes
 This stage improves separation of concerns by moving mock values out of widgets and into a centralized mock data source.
+

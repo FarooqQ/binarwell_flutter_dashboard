@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG13 Gate Decision
+# CP-R3-001-MG13 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG13 — Final Approval and Release 3 Closure
+CP-R3-001-MG13 � Final Approval and Release 3 Closure
 
 ## Gate Checklist
 
@@ -33,3 +33,4 @@ git status -sb
 CP-R3-001-MG13 Gate Status: PASSED
 
 Decision: Release 3 is fully closed and ready for owner-approved GitHub publishing.
+

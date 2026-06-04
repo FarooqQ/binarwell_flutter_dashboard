@@ -1,7 +1,7 @@
-ï»¿# C021 â€” GitHub Preparation Change Log
+# C021 — GitHub Preparation Change Log
 
 ## Stage
-C021 â€” GitHub Preparation
+C021 — GitHub Preparation
 
 ## Scope
 Prepare the BinarWell Flutter Dashboard project locally for safe GitHub publication.
@@ -51,3 +51,4 @@ No backend or database was added.
 
 ## Notes
 This stage prepares the project for public GitHub publication, but actual remote publishing is reserved for a later step.
+

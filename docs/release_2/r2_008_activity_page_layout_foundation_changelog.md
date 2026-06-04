@@ -38,3 +38,4 @@ Detailed internal card designs are not implemented in this gate.
 
 The next gates will improve each Activity component separately.
 
+

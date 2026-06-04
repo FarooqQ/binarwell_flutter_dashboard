@@ -1,7 +1,7 @@
-ï»¿# C017 â€” Gate Decision
+# C017 — Gate Decision
 
 ## Gate
-C017 â€” Mock Data Separation
+C017 — Mock Data Separation
 
 ## Gate Status
 PASSED
@@ -38,4 +38,5 @@ No backend, database, API, real medical logic, or responsive polishing was added
 C017 is completed and approved.
 
 ## Next Stage
-Ready for C018 â€” Responsive Layout Improvement.
+Ready for C018 — Responsive Layout Improvement.
+

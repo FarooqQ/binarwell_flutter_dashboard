@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG8 Gate Decision
+# CP-R3-001-MG8 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG8 — Recent Achievements and Wellness Insights
+CP-R3-001-MG8 � Recent Achievements and Wellness Insights
 
 ## Gate Checklist
 
@@ -41,3 +41,4 @@ Gate Status
 CP-R3-001-MG8 Gate Status: PASSED
 
 Decision: Achievement and insight sections are implemented with reduced text density.
+

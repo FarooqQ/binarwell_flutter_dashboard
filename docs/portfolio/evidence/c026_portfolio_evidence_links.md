@@ -1,4 +1,4 @@
-﻿# C026 — Portfolio Evidence Links
+# C026 � Portfolio Evidence Links
 
 ## Project Name
 
@@ -41,3 +41,4 @@ Short CV prepared for portfolio and job applications.
 - LinkedIn Post: Completed
 - LinkedIn Featured: Completed
 - CV Description: Prepared
+

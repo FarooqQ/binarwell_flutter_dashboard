@@ -163,3 +163,4 @@ This behavior is acceptable because the reference image represents a large deskt
 
 The Activity page is visually consistent enough to move to the responsive review gate.
 
+

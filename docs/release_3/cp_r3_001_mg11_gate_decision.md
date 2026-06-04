@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG11 Gate Decision
+# CP-R3-001-MG11 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG11 — README and Release 3 Documentation Update
+CP-R3-001-MG11 � README and Release 3 Documentation Update
 
 ## Gate Checklist
 
@@ -30,3 +30,4 @@ git status -sb
 CP-R3-001-MG11 Gate Status: PASSED
 
 Decision: Release 3 README and documentation updates are complete.
+

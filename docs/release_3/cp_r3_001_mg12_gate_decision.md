@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG12 Gate Decision
+# CP-R3-001-MG12 Gate Decision
 
 ## Micro-Gate
 
-CP-R3-001-MG12 — Final Release 3 Review and GitHub Publishing Preparation
+CP-R3-001-MG12 � Final Release 3 Review and GitHub Publishing Preparation
 
 ## Gate Checklist
 
@@ -34,3 +34,4 @@ Gate Status
 CP-R3-001-MG12 Gate Status: PASSED
 
 Decision: Release 3 final review and GitHub publishing preparation are complete.
+

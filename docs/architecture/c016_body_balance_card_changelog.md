@@ -1,7 +1,7 @@
-ï»¿# C016 â€” Body Balance Card Change Log
+# C016 — Body Balance Card Change Log
 
 ## Stage
-C016 â€” Body Balance Card
+C016 — Body Balance Card
 
 ## Scope
 Build a real body balance card using horizontal progress bars.
@@ -41,3 +41,4 @@ No real medical logic was implemented.
 
 ## Notes
 This stage completes the current dashboard card set before moving to data separation in C017.
+

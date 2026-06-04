@@ -1,7 +1,7 @@
-ï»¿# C004 â€” Basic Dashboard Page Change Log
+# C004 — Basic Dashboard Page Change Log
 
 ## Stage
-C004 â€” Build Basic Dashboard Page
+C004 — Build Basic Dashboard Page
 
 ## Completed Actions
 - Created dashboard page folder.
@@ -25,4 +25,5 @@ No real dashboard content was added.
 C004 Gate Status: PASSED
 
 ## Next Stage
-Ready to start C005 â€” Dashboard Shell.
+Ready to start C005 — Dashboard Shell.
+

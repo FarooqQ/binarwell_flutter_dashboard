@@ -29,3 +29,4 @@ No external chart package was added.
 
 The chart is implemented using CustomPainter to keep the project lightweight.
 
+

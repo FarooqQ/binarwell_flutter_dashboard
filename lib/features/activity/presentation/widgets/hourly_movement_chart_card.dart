@@ -264,3 +264,4 @@ class _HourlyMovementChartPainter extends CustomPainter {
   }
 }
 
+

@@ -1,7 +1,7 @@
-ï»¿# C013 â€” Gate Decision
+# C013 — Gate Decision
 
 ## Gate
-C013 â€” Daily Goals Card
+C013 — Daily Goals Card
 
 ## Gate Status
 PASSED
@@ -40,4 +40,5 @@ No checkup timeline card, vital metrics card, body balance card, mock data, back
 C013 is completed and approved.
 
 ## Next Stage
-Ready for C014 â€” Checkup Timeline Card.
+Ready for C014 — Checkup Timeline Card.
+

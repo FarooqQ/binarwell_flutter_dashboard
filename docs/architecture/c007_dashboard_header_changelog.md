@@ -1,7 +1,7 @@
-ï»¿# C007 â€” Dashboard Header Change Log
+# C007 — Dashboard Header Change Log
 
 ## Stage
-C007 â€” Header / Top Area
+C007 — Header / Top Area
 
 ## Scope
 Build the top header area inside the dashboard main content area.
@@ -46,3 +46,4 @@ No medical logic was implemented.
 
 ## Notes
 This stage only adds the top header area before building the dashboard content grid.
+

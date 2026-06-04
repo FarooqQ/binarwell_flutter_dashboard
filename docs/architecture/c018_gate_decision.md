@@ -1,7 +1,7 @@
-ï»¿# C018 â€” Gate Decision
+# C018 — Gate Decision
 
 ## Gate
-C018 â€” Responsive Layout Improvement
+C018 — Responsive Layout Improvement
 
 ## Gate Status
 PASSED
@@ -32,4 +32,5 @@ No new features, backend, database, real medical logic, or UI polish changes wer
 C018 is completed and approved.
 
 ## Next Stage
-Ready for C019 â€” UI Polish.
+Ready for C019 — UI Polish.
+

@@ -1,4 +1,4 @@
-﻿# C023 — Optional Public Release Preparation Changelog
+# C023 � Optional Public Release Preparation Changelog
 
 ## Scope
 
@@ -27,3 +27,4 @@ It does not include:
 ## Status
 
 C023 Optional Release Preparation: COMPLETED
+

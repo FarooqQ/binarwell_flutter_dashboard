@@ -93,3 +93,4 @@ class _MovementBar extends StatelessWidget {
   }
 }
 
+

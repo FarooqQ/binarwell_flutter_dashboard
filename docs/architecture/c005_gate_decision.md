@@ -1,7 +1,7 @@
-ï»¿# C005 â€” Gate Decision
+# C005 — Gate Decision
 
 ## Gate
-C005 â€” Dashboard Shell
+C005 — Dashboard Shell
 
 ## Gate Status
 PASSED
@@ -22,4 +22,5 @@ C005 is accepted because the dashboard shell was created successfully and the sc
 C005 is completed and approved.
 
 ## Next Stage
-Ready for C006 â€” Wellness Sidebar.
+Ready for C006 — Wellness Sidebar.
+

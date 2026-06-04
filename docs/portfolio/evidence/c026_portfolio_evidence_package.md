@@ -1,4 +1,4 @@
-ï»¿# C026 â€” Portfolio Evidence Package
+# C026 — Portfolio Evidence Package
 
 ## Purpose
 
@@ -84,7 +84,7 @@ The project was added to the LinkedIn Featured section.
 
 ## CV / Portfolio Description
 
-BinarWell Flutter Dashboard â€” An inspired Flutter wellness dashboard practice project built with Flutter and Dart, focused on reusable UI components, mock data separation, responsive layout, documentation, and GitHub-ready release preparation.
+BinarWell Flutter Dashboard — An inspired Flutter wellness dashboard practice project built with Flutter and Dart, focused on reusable UI components, mock data separation, responsive layout, documentation, and GitHub-ready release preparation.
 
 ---
 
@@ -120,3 +120,4 @@ It is an educational and portfolio-oriented Flutter UI practice project.
 C026 Portfolio Evidence Package: COMPLETED
 
 BinarWell Flutter Dashboard is ready to be used as a public portfolio evidence project.
+

@@ -1,7 +1,7 @@
-ï»¿# C011 â€” Summary Metric Cards Change Log
+# C011 — Summary Metric Cards Change Log
 
 ## Stage
-C011 â€” Summary Metric Cards
+C011 — Summary Metric Cards
 
 ## Scope
 Create a reusable summary metric card and use it for small dashboard metrics.
@@ -42,3 +42,4 @@ No backend or database was added.
 
 ## Notes
 This stage introduces reusable small metric cards while keeping the remaining dashboard cards as placeholders.
+

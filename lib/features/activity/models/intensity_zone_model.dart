@@ -12,3 +12,4 @@ class IntensityZoneModel {
   int get percentageLabel => (percentage * 100).round();
 }
 
+

@@ -1,4 +1,4 @@
-﻿# CP-R3-001-MG12 Git Scope
+# CP-R3-001-MG12 Git Scope
 
 ## Purpose
 
@@ -41,3 +41,4 @@ git push origin v1.2.0
 Important
 
 Do not run commit, tag, or push until the final approval file is created.
+

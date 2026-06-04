@@ -14,3 +14,4 @@ class WellnessInsightModel {
   final String iconKey;
 }
 
+

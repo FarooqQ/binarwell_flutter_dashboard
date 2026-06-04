@@ -1,8 +1,8 @@
-ï»¿# R2-020 â€” README and Screenshots Update
+# R2-020 — README and Screenshots Update
 
 ## Gate
 
-R2-020 â€” README and Screenshots Update
+R2-020 — README and Screenshots Update
 
 ## Purpose
 
@@ -58,5 +58,6 @@ No private data should appear in screenshots.
 
 ## Next Gate
 
-R2-021 â€” Release Baseline Protection & Version Delta Documentation
+R2-021 — Release Baseline Protection & Version Delta Documentation
+
 

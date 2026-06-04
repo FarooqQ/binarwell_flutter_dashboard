@@ -1,7 +1,7 @@
-ï»¿# C015 â€” Gate Decision
+# C015 — Gate Decision
 
 ## Gate
-C015 â€” Vital Metrics Card
+C015 — Vital Metrics Card
 
 ## Gate Status
 PASSED
@@ -39,4 +39,5 @@ No body balance card, mock data, backend, database, or real medical logic were a
 C015 is completed and approved.
 
 ## Next Stage
-Ready for C016 â€” Body Balance Card.
+Ready for C016 — Body Balance Card.
+

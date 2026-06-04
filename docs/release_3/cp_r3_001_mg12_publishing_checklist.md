@@ -1,4 +1,4 @@
-ï»¿# CP-R3-001-MG12 Publishing Checklist
+# CP-R3-001-MG12 Publishing Checklist
 
 ## Release
 
@@ -19,7 +19,7 @@ BinarWell Flutter Dashboard v1.2.0
 
 ## Recommended GitHub Release Title
 
-BinarWell Flutter Dashboard v1.2.0 â€” Wellness Goals Expansion
+BinarWell Flutter Dashboard v1.2.0 — Wellness Goals Expansion
 
 ## Recommended Tag
 
@@ -33,10 +33,11 @@ Release v1.2.0: add Wellness Goals dashboard page
 
 Release 3 should be published as a continuation of:
 
-- v1.0.0 â€” Initial polished dashboard release
-- v1.1.0 â€” Activity-first multi-page expansion
-- v1.2.0 â€” Wellness Goals expansion
+- v1.0.0 — Initial polished dashboard release
+- v1.1.0 — Activity-first multi-page expansion
+- v1.2.0 — Wellness Goals expansion
 
 ## Publishing Status
 
 PENDING
+

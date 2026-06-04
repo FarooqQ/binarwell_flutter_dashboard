@@ -1,8 +1,8 @@
-﻿# CP-R3-001-MG12 Changelog
+# CP-R3-001-MG12 Changelog
 
 ## Micro-Gate
 
-CP-R3-001-MG12 — Final Release 3 Review and GitHub Publishing Preparation
+CP-R3-001-MG12 � Final Release 3 Review and GitHub Publishing Preparation
 
 ## Changes Completed
 
@@ -33,3 +33,4 @@ CP-R3-001-MG12 — Final Release 3 Review and GitHub Publishing Preparation
 ## Notes
 
 This micro-gate prepares Release 3 for GitHub publishing but does not perform commit, tag, or push.
+

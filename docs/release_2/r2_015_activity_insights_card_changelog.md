@@ -22,3 +22,4 @@ The card uses ActivityMockData.insights.
 
 This gate implements the Activity Insights component for the Activity page.
 
+

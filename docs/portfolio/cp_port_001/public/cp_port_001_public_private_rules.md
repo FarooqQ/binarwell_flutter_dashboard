@@ -51,3 +51,4 @@ All private notes should be stored outside Git tracking under:
 
 CP-PORT-001 will separate public presentation materials from private personal notes.
 
+

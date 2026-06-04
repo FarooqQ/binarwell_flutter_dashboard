@@ -1,7 +1,7 @@
-ï»¿# C016 â€” Gate Decision
+# C016 — Gate Decision
 
 ## Gate
-C016 â€” Body Balance Card
+C016 — Body Balance Card
 
 ## Gate Status
 PASSED
@@ -39,4 +39,5 @@ No mock data, backend, database, or real medical logic were added in this stage.
 C016 is completed and approved.
 
 ## Next Stage
-Ready for C017 â€” Mock Data Separation.
+Ready for C017 — Mock Data Separation.
+

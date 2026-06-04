@@ -1,4 +1,4 @@
-ï»¿# Wellness Goals Scope
+# Wellness Goals Scope
 
 ## Project
 
@@ -10,15 +10,15 @@ v1.2.0
 
 ## Release Name
 
-Release 3 â€” Wellness Goals Expansion
+Release 3 — Wellness Goals Expansion
 
 ## Implementation Track
 
-CP-R3-001 â€” Wellness Goals Page Implementation
+CP-R3-001 — Wellness Goals Page Implementation
 
 ## Current Micro-Gate
 
-CP-R3-001-MG1 â€” Reference Lock and Scope Definition
+CP-R3-001-MG1 — Reference Lock and Scope Definition
 
 ## Scope Summary
 
@@ -33,7 +33,7 @@ This release will add a dedicated Wellness Goals page that includes:
 - Header with page title and Add Goal button
 - Today date filter
 - Goal summary KPI cards
-- Todayâ€™s Goal Checklist
+- Today’s Goal Checklist
 - Goal Focus of the Week
 - Weekly Goal Planner
 - Goal Categories
@@ -77,8 +77,9 @@ Release 3 will be published later on the personal GitHub account after the final
 
 The release should be documented as a natural continuation of:
 
-- v1.0.0 â€” Initial polished dashboard release
-- v1.1.0 â€” Activity-first multi-page expansion
-- v1.2.0 â€” Wellness Goals expansion
+- v1.0.0 — Initial polished dashboard release
+- v1.1.0 — Activity-first multi-page expansion
+- v1.2.0 — Wellness Goals expansion
 
 The previous releases should remain understandable and protected as portfolio milestones.
+

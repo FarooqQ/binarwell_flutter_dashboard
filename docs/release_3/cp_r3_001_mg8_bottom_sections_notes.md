@@ -1,4 +1,4 @@
-﻿# CP-R3-001-MG8 Bottom Sections Notes
+# CP-R3-001-MG8 Bottom Sections Notes
 
 ## Purpose
 
@@ -51,3 +51,4 @@ No Spacer widget is used.
 No IntrinsicHeight widget is used.
 
 The bottom sections use simple Row and Column layouts with responsive stacking below 900px.
+
